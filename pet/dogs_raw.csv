@@ -1,0 +1,601 @@
+dog_id,name,breed_primary,breed_secondary,age,size,gender,city,state,status,published_at,fetched_at
+DOG0001,Leo,Indian Pariah Dog,,Senior,Medium,Male,Pune,Maharashtra,Adopted,10-08-2025 13:18,13-08-2025 13:18
+DOG0002,Leo,Labrador Retriever,,Young,Large,Female,Delhi,Delhi,Available,28-09-2025 13:18,28-09-2025 13:18
+DOG0003,Oscar,Indian Pariah Dog,,Young,Medium,Male,Lucknow,Uttar Pradesh,Available,01-11-2025 13:18,04-11-2025 13:18
+DOG0004,Max,Beagle,,Young,Small,Female,Jaipur,Rajasthan,Adopted,05-03-2025 13:18,06-03-2025 13:18
+DOG0005,Oreo,Indian Pariah Dog,,Adult,Medium,Male,Hyderabad,Telangana,Adopted,23-05-2025 13:18,23-05-2025 13:18
+DOG0006,Pepper,Mixed Breed,Mixed,Young,Medium,Male,Chennai,Tamil Nadu,Pending,14-10-2025 13:18,15-10-2025 13:18
+DOG0007,Jack,Rottweiler,,Young,Large,Male,Mumbai,Maharashtra,Available,19-08-2025 13:18,20-08-2025 13:18
+DOG0008,Daisy,Labrador Retriever,,Puppy,Large,Female,Bangalore,Karnataka,Adopted,18-08-2025 13:18,21-08-2025 13:18
+DOG0009,Brownie,Mixed Breed,Mixed,Adult,Medium,Male,Hyderabad,Telangana,Available,02-01-2026 13:18,03-01-2026 13:18
+DOG0010,Daisy,Mixed Breed,Mixed,Young,Medium,Female,Chennai,Tamil Nadu,Available,06-01-2026 13:18,09-01-2026 13:18
+DOG0011,Leo,Golden Retriever,,Adult,Large,Female,Ahmedabad,Gujarat,Adopted,11-09-2025 13:18,12-09-2025 13:18
+DOG0012,Cooper,Golden Retriever,,Puppy,Large,Male,Jaipur,Rajasthan,Adopted,14-08-2025 13:18,16-08-2025 13:18
+DOG0013,Max,Rottweiler,,Puppy,Large,Female,Delhi,Delhi,Adopted,26-02-2025 13:18,27-02-2025 13:18
+DOG0014,Charlie,Rottweiler,,Adult,Large,Female,Kochi,Kerala,Adopted,21-02-2025 13:18,23-02-2025 13:18
+DOG0015,Chloe,Labrador Retriever,,Adult,Large,Male,Chandigarh,Chandigarh,Adopted,13-02-2025 13:18,13-02-2025 13:18
+DOG0016,Pepper,Pug,,Puppy,Small,Female,Delhi,Delhi,Adopted,18-02-2025 13:18,18-02-2025 13:18
+DOG0017,Molly,Labrador Retriever,,Young,Large,Female,Jaipur,Rajasthan,Available,08-08-2025 13:18,09-08-2025 13:18
+DOG0018,Rocky,Indian Pariah Dog,,Adult,Medium,Male,Pune,Maharashtra,Adopted,25-04-2025 13:18,27-04-2025 13:18
+DOG0019,Bruno,Labrador Retriever,,Adult,Large,Female,Mumbai,Maharashtra,Adopted,09-08-2025 13:18,09-08-2025 13:18
+DOG0020,Coco,Labrador Retriever,,Adult,Large,Male,Mumbai,Maharashtra,Adopted,09-09-2025 13:18,11-09-2025 13:18
+DOG0021,Rocky,Shih Tzu,,Puppy,Small,Male,Pune,Maharashtra,Adopted,27-01-2025 13:18,29-01-2025 13:18
+DOG0022,Charlie,Beagle,,Adult,Small,Male,Bangalore,Karnataka,Adopted,13-04-2025 13:18,16-04-2025 13:18
+DOG0023,Moti,Labrador Retriever,,Puppy,Large,Male,Bangalore,Karnataka,Adopted,18-12-2025 13:18,21-12-2025 13:18
+DOG0024,Cooper,Golden Retriever,,Puppy,Large,Male,Ahmedabad,Gujarat,Adopted,27-11-2025 13:18,30-11-2025 13:18
+DOG0025,Sheru,German Shepherd,,Puppy,Large,Male,Delhi,Delhi,Adopted,16-02-2025 13:18,16-02-2025 13:18
+DOG0026,Tiger,Indian Pariah Dog,,Young,Medium,Female,Mumbai,Maharashtra,Available,07-02-2025 13:18,09-02-2025 13:18
+DOG0027,Sheru,Beagle,,Puppy,Small,Female,Ahmedabad,Gujarat,Available,21-07-2025 13:18,22-07-2025 13:18
+DOG0028,Rocky,Shih Tzu,,Adult,Small,Female,Lucknow,Uttar Pradesh,Pending,23-11-2025 13:18,26-11-2025 13:18
+DOG0029,Chloe,Golden Retriever,,Puppy,Large,Male,Hyderabad,Telangana,Adopted,21-01-2025 13:18,21-01-2025 13:18
+DOG0030,Leo,Labrador Retriever,,Puppy,Large,Female,Delhi,Delhi,Adopted,31-12-2025 13:18,01-01-2026 13:18
+DOG0031,Sheru,Indian Pariah Dog,,Puppy,Medium,Male,Mumbai,Maharashtra,Pending,01-12-2025 13:18,02-12-2025 13:18
+DOG0032,Rex,Indian Pariah Dog,,Young,Medium,Male,Kolkata,West Bengal,Available,10-11-2025 13:18,11-11-2025 13:18
+DOG0033,Charlie,Mixed Breed,Mixed,Puppy,Medium,Female,Chandigarh,Chandigarh,Adopted,08-02-2025 13:18,11-02-2025 13:18
+DOG0034,Rocky,Pug,,Puppy,Small,Female,Mumbai,Maharashtra,Available,09-04-2025 13:18,10-04-2025 13:18
+DOG0035,Jack,Labrador Retriever,,Senior,Large,Male,Kolkata,West Bengal,Available,13-10-2025 13:18,15-10-2025 13:18
+DOG0036,Lucy,Golden Retriever,,Puppy,Large,Female,Kolkata,West Bengal,Available,16-02-2025 13:18,16-02-2025 13:18
+DOG0037,Bruno,Labrador Retriever,,Puppy,Large,Male,Chennai,Tamil Nadu,Adopted,09-10-2025 13:18,12-10-2025 13:18
+DOG0038,Brownie,Golden Retriever,,Adult,Large,Male,Pune,Maharashtra,Adopted,10-09-2025 13:18,12-09-2025 13:18
+DOG0039,Bruno,Labrador Retriever,,Young,Large,Female,Kolkata,West Bengal,Available,13-06-2025 13:18,15-06-2025 13:18
+DOG0040,Molly,Beagle,,Young,Small,Female,Chennai,Tamil Nadu,Available,18-09-2025 13:18,19-09-2025 13:18
+DOG0041,Tiger,Indian Pariah Dog,,Young,Medium,Male,Bangalore,Karnataka,Available,09-11-2025 13:18,12-11-2025 13:18
+DOG0042,Sheru,Mixed Breed,Mixed,Young,Medium,Female,Delhi,Delhi,Pending,10-09-2025 13:18,12-09-2025 13:18
+DOG0043,Tiger,Golden Retriever,,Young,Large,Male,Mumbai,Maharashtra,Adopted,18-01-2026 13:18,20-01-2026 13:18
+DOG0044,Oreo,Indie Mix,Mixed,Young,Medium,Male,Delhi,Delhi,Adopted,25-08-2025 13:18,28-08-2025 13:18
+DOG0045,Sheru,Labrador Retriever,,Puppy,Large,Female,Hyderabad,Telangana,Adopted,20-10-2025 13:18,23-10-2025 13:18
+DOG0046,Duke,Indian Pariah Dog,,Puppy,Medium,Male,Hyderabad,Telangana,Available,13-12-2025 13:18,15-12-2025 13:18
+DOG0047,Moti,Pug,,Adult,Small,Female,Hyderabad,Telangana,Adopted,20-10-2025 13:18,23-10-2025 13:18
+DOG0048,Cooper,German Shepherd,,Senior,Large,Female,Delhi,Delhi,Pending,15-09-2025 13:18,15-09-2025 13:18
+DOG0049,Luna,Mixed Breed,Mixed,Young,Medium,Female,Chennai,Tamil Nadu,Adopted,22-08-2025 13:18,23-08-2025 13:18
+DOG0050,Coco,Golden Retriever,,Puppy,Large,Male,Delhi,Delhi,Available,06-04-2025 13:18,09-04-2025 13:18
+DOG0051,Max,Indian Pariah Dog,,Adult,Medium,Female,Pune,Maharashtra,Adopted,07-02-2025 13:18,07-02-2025 13:18
+DOG0052,Chloe,German Shepherd,,Young,Large,Female,Pune,Maharashtra,Available,04-11-2025 13:18,06-11-2025 13:18
+DOG0053,Pepper,German Shepherd,,Puppy,Large,Male,Pune,Maharashtra,Adopted,26-08-2025 13:18,28-08-2025 13:18
+DOG0054,Duke,German Shepherd,,Adult,Large,Female,Chennai,Tamil Nadu,Pending,08-04-2025 13:18,08-04-2025 13:18
+DOG0055,Rex,Labrador Retriever,,Young,Large,Female,Pune,Maharashtra,Available,09-04-2025 13:18,09-04-2025 13:18
+DOG0056,Max,Indian Pariah Dog,,Young,Medium,Female,Ahmedabad,Gujarat,Pending,20-11-2025 13:18,23-11-2025 13:18
+DOG0057,Oscar,Labrador Retriever,,Puppy,Large,Female,Bangalore,Karnataka,Adopted,22-11-2025 13:18,24-11-2025 13:18
+DOG0058,Molly,Indie Mix,Mixed,Puppy,Medium,Female,Jaipur,Rajasthan,Adopted,13-09-2025 13:18,13-09-2025 13:18
+DOG0059,Oreo,Beagle,,Young,Small,Male,Kolkata,West Bengal,Adopted,02-04-2025 13:18,02-04-2025 13:18
+DOG0060,Luna,Shih Tzu,,Puppy,Small,Female,Ahmedabad,Gujarat,Available,02-08-2025 13:18,04-08-2025 13:18
+DOG0061,Coco,Labrador Retriever,,Young,Large,Male,Lucknow,Uttar Pradesh,Adopted,09-04-2025 13:18,10-04-2025 13:18
+DOG0062,Buddy,Mixed Breed,Mixed,Young,Medium,Male,Hyderabad,Telangana,Pending,17-12-2025 13:18,19-12-2025 13:18
+DOG0063,Max,Pug,,Young,Small,Male,Chennai,Tamil Nadu,Adopted,18-01-2026 13:18,20-01-2026 13:18
+DOG0064,Duke,Indian Pariah Dog,,Puppy,Medium,Male,Mumbai,Maharashtra,Pending,28-07-2025 13:18,30-07-2025 13:18
+DOG0065,Bruno,Indian Pariah Dog,,Adult,Medium,Male,Delhi,Delhi,Available,22-05-2025 13:18,23-05-2025 13:18
+DOG0066,Shadow,German Shepherd,,Puppy,Large,Female,Ahmedabad,Gujarat,Available,13-06-2025 13:18,14-06-2025 13:18
+DOG0067,Pepper,Golden Retriever,,Puppy,Large,Female,Pune,Maharashtra,Adopted,03-02-2025 13:18,05-02-2025 13:18
+DOG0068,Bruno,Golden Retriever,,Puppy,Large,Female,Jaipur,Rajasthan,Available,18-12-2025 13:18,19-12-2025 13:18
+DOG0069,Jack,German Shepherd,,Puppy,Large,Female,Lucknow,Uttar Pradesh,Adopted,22-04-2025 13:18,22-04-2025 13:18
+DOG0070,Zeus,Golden Retriever,,Puppy,Large,Male,Bangalore,Karnataka,Adopted,07-12-2025 13:18,08-12-2025 13:18
+DOG0071,Coco,Mixed Breed,Mixed,Puppy,Medium,Male,Bangalore,Karnataka,Pending,07-12-2025 13:18,09-12-2025 13:18
+DOG0072,Coco,Siberian Husky,,Young,Large,Male,Chennai,Tamil Nadu,Available,04-10-2025 13:18,06-10-2025 13:18
+DOG0073,Oreo,Indian Pariah Dog,,Adult,Medium,Female,Mumbai,Maharashtra,Available,15-01-2026 13:18,15-01-2026 13:18
+DOG0074,Oreo,Labrador Retriever,,Senior,Large,Female,Delhi,Delhi,Available,15-01-2026 13:18,17-01-2026 13:18
+DOG0075,Pepper,Indian Pariah Dog,,Puppy,Medium,Male,Kolkata,West Bengal,Adopted,13-12-2025 13:18,13-12-2025 13:18
+DOG0076,Molly,Siberian Husky,,Young,Large,Female,Delhi,Delhi,Adopted,03-05-2025 13:18,03-05-2025 13:18
+DOG0077,Leo,Indian Pariah Dog,,Young,Medium,Male,Chandigarh,Chandigarh,Adopted,20-12-2025 13:18,23-12-2025 13:18
+DOG0078,Molly,Indie Mix,Mixed,Puppy,Medium,Male,Chennai,Tamil Nadu,Adopted,12-11-2025 13:18,15-11-2025 13:18
+DOG0079,Sheru,Golden Retriever,,Young,Large,Female,Ahmedabad,Gujarat,Available,14-05-2025 13:18,14-05-2025 13:18
+DOG0080,Shadow,Labrador Retriever,,Puppy,Large,Male,Mumbai,Maharashtra,Available,31-08-2025 13:18,01-09-2025 13:18
+DOG0081,Buddy,Labrador Retriever,,Puppy,Large,Male,Delhi,Delhi,Available,15-10-2025 13:18,15-10-2025 13:18
+DOG0082,Leo,Golden Retriever,,Young,Large,Male,Hyderabad,Telangana,Available,22-09-2025 13:18,24-09-2025 13:18
+DOG0083,Oreo,Mixed Breed,Mixed,Puppy,Medium,Female,Chennai,Tamil Nadu,Available,08-11-2025 13:18,08-11-2025 13:18
+DOG0084,Simba,Labrador Retriever,,Puppy,Large,Female,Kolkata,West Bengal,Adopted,05-09-2025 13:18,06-09-2025 13:18
+DOG0085,Cooper,German Shepherd,,Puppy,Large,Female,Bangalore,Karnataka,Adopted,14-11-2025 13:18,17-11-2025 13:18
+DOG0086,Charlie,Indian Pariah Dog,,Young,Medium,Female,Chandigarh,Chandigarh,Available,10-09-2025 13:18,12-09-2025 13:18
+DOG0087,Molly,Mixed Breed,Mixed,Young,Medium,Female,Delhi,Delhi,Adopted,09-08-2025 13:18,12-08-2025 13:18
+DOG0088,Charlie,Labrador Retriever,,Puppy,Large,Male,Chennai,Tamil Nadu,Available,01-02-2025 13:18,04-02-2025 13:18
+DOG0089,Buddy,Mixed Breed,Mixed,Adult,Medium,Male,Ahmedabad,Gujarat,Adopted,01-07-2025 13:18,04-07-2025 13:18
+DOG0090,Luna,Indian Pariah Dog,,Adult,Medium,Male,Jaipur,Rajasthan,Adopted,28-11-2025 13:18,01-12-2025 13:18
+DOG0091,Pepper,Golden Retriever,,Young,Large,Male,Chandigarh,Chandigarh,Adopted,28-02-2025 13:18,03-03-2025 13:18
+DOG0092,Jack,Siberian Husky,,Young,Large,Female,Mumbai,Maharashtra,Available,22-02-2025 13:18,23-02-2025 13:18
+DOG0093,Simba,Mixed Breed,Mixed,Adult,Medium,Male,Bangalore,Karnataka,Available,26-09-2025 13:18,28-09-2025 13:18
+DOG0094,Brownie,Siberian Husky,,Puppy,Large,Female,Delhi,Delhi,Adopted,12-03-2025 13:18,15-03-2025 13:18
+DOG0095,Leo,German Shepherd,,Young,Large,Male,Mumbai,Maharashtra,Adopted,13-06-2025 13:18,13-06-2025 13:18
+DOG0096,Luna,Mixed Breed,Mixed,Young,Medium,Female,Delhi,Delhi,Adopted,20-03-2025 13:18,20-03-2025 13:18
+DOG0097,Rex,Pug,,Puppy,Small,Male,Ahmedabad,Gujarat,Adopted,06-02-2025 13:18,09-02-2025 13:18
+DOG0098,Sadie,Beagle,,Young,Small,Female,Jaipur,Rajasthan,Adopted,08-03-2025 13:18,11-03-2025 13:18
+DOG0099,Rocky,Mixed Breed,Mixed,Young,Medium,Female,Chennai,Tamil Nadu,Adopted,14-11-2025 13:18,15-11-2025 13:18
+DOG0100,Bruno,Indian Pariah Dog,,Puppy,Medium,Female,Hyderabad,Telangana,Adopted,18-12-2025 13:18,19-12-2025 13:18
+DOG0101,Bruno,Indian Pariah Dog,,Young,Medium,Female,Bangalore,Karnataka,Available,29-03-2025 13:18,31-03-2025 13:18
+DOG0102,Coco,German Shepherd,,Puppy,Large,Male,Bangalore,Karnataka,Adopted,12-03-2025 13:18,13-03-2025 13:18
+DOG0103,Charlie,German Shepherd,,Adult,Large,Female,Ahmedabad,Gujarat,Adopted,27-10-2025 13:18,28-10-2025 13:18
+DOG0104,Zeus,Rottweiler,,Young,Large,Female,Mumbai,Maharashtra,Available,15-10-2025 13:18,15-10-2025 13:18
+DOG0105,Max,Beagle,,Young,Small,Female,Hyderabad,Telangana,Available,08-08-2025 13:18,08-08-2025 13:18
+DOG0106,Luna,Labrador Retriever,,Puppy,Large,Female,Delhi,Delhi,Available,29-01-2025 13:18,01-02-2025 13:18
+DOG0107,Chloe,Labrador Retriever,,Young,Large,Male,Kolkata,West Bengal,Available,02-05-2025 13:18,02-05-2025 13:18
+DOG0108,Oreo,Golden Retriever,,Young,Large,Male,Kolkata,West Bengal,Available,06-01-2026 13:18,06-01-2026 13:18
+DOG0109,Leo,Golden Retriever,,Young,Large,Female,Pune,Maharashtra,Adopted,27-06-2025 13:18,27-06-2025 13:18
+DOG0110,Pepper,Indian Pariah Dog,,Young,Medium,Female,Lucknow,Uttar Pradesh,Available,24-11-2025 13:18,26-11-2025 13:18
+DOG0111,Molly,Indian Pariah Dog,,Young,Medium,Female,Delhi,Delhi,Adopted,15-02-2025 13:18,16-02-2025 13:18
+DOG0112,Shadow,Indie Mix,Mixed,Puppy,Medium,Female,Mumbai,Maharashtra,Adopted,20-03-2025 13:18,23-03-2025 13:18
+DOG0113,Pepper,Golden Retriever,,Adult,Large,Male,Kolkata,West Bengal,Adopted,08-04-2025 13:18,11-04-2025 13:18
+DOG0114,Duke,Labrador Retriever,,Puppy,Large,Female,Chennai,Tamil Nadu,Pending,09-11-2025 13:18,11-11-2025 13:18
+DOG0115,Coco,Beagle,,Adult,Small,Female,Jaipur,Rajasthan,Adopted,26-06-2025 13:18,29-06-2025 13:18
+DOG0116,Max,Indian Pariah Dog,,Young,Medium,Female,Mumbai,Maharashtra,Adopted,11-07-2025 13:18,11-07-2025 13:18
+DOG0117,Moti,Golden Retriever,,Puppy,Large,Female,Delhi,Delhi,Available,29-12-2025 13:18,31-12-2025 13:18
+DOG0118,Chloe,Indian Pariah Dog,,Puppy,Medium,Male,Ahmedabad,Gujarat,Adopted,18-07-2025 13:18,20-07-2025 13:18
+DOG0119,Tiger,Shih Tzu,,Puppy,Small,Male,Bangalore,Karnataka,Adopted,06-02-2025 13:18,09-02-2025 13:18
+DOG0120,Oreo,Labrador Retriever,,Young,Large,Male,Jaipur,Rajasthan,Available,08-12-2025 13:18,09-12-2025 13:18
+DOG0121,Molly,Mixed Breed,Mixed,Puppy,Medium,Male,Hyderabad,Telangana,Adopted,17-04-2025 13:18,17-04-2025 13:18
+DOG0122,Oreo,Indian Pariah Dog,,Puppy,Medium,Male,Mumbai,Maharashtra,Adopted,05-02-2025 13:18,07-02-2025 13:18
+DOG0123,Jack,Labrador Retriever,,Young,Large,Female,Pune,Maharashtra,Adopted,02-12-2025 13:18,03-12-2025 13:18
+DOG0124,Pepper,Pug,,Young,Small,Male,Chennai,Tamil Nadu,Adopted,31-01-2025 13:18,01-02-2025 13:18
+DOG0125,Duke,Indie Mix,Mixed,Young,Medium,Female,Delhi,Delhi,Adopted,05-01-2026 13:18,06-01-2026 13:18
+DOG0126,Bella,Beagle,,Young,Small,Male,Hyderabad,Telangana,Available,24-11-2025 13:18,25-11-2025 13:18
+DOG0127,Buddy,German Shepherd,,Puppy,Large,Male,Kolkata,West Bengal,Available,18-05-2025 13:18,18-05-2025 13:18
+DOG0128,Oscar,Indian Pariah Dog,,Young,Medium,Female,Hyderabad,Telangana,Adopted,02-02-2025 13:18,05-02-2025 13:18
+DOG0129,Max,German Shepherd,,Young,Large,Male,Mumbai,Maharashtra,Adopted,02-11-2025 13:18,05-11-2025 13:18
+DOG0130,Leo,Indian Pariah Dog,,Adult,Medium,Female,Mumbai,Maharashtra,Adopted,20-03-2025 13:18,22-03-2025 13:18
+DOG0131,Zeus,Beagle,,Young,Small,Male,Pune,Maharashtra,Available,17-11-2025 13:18,20-11-2025 13:18
+DOG0132,Coco,Beagle,,Puppy,Small,Female,Chennai,Tamil Nadu,Adopted,11-06-2025 13:18,12-06-2025 13:18
+DOG0133,Brownie,Mixed Breed,Mixed,Puppy,Medium,Male,Bangalore,Karnataka,Adopted,10-02-2025 13:18,13-02-2025 13:18
+DOG0134,Shadow,Labrador Retriever,,Puppy,Large,Male,Lucknow,Uttar Pradesh,Pending,13-06-2025 13:18,15-06-2025 13:18
+DOG0135,Daisy,German Shepherd,,Adult,Large,Male,Bangalore,Karnataka,Adopted,29-04-2025 13:18,02-05-2025 13:18
+DOG0136,Bella,German Shepherd,,Young,Large,Female,Mumbai,Maharashtra,Adopted,18-08-2025 13:18,20-08-2025 13:18
+DOG0137,Molly,Labrador Retriever,,Adult,Large,Female,Hyderabad,Telangana,Available,28-03-2025 13:18,31-03-2025 13:18
+DOG0138,Charlie,Golden Retriever,,Adult,Large,Female,Bangalore,Karnataka,Available,22-11-2025 13:18,24-11-2025 13:18
+DOG0139,Moti,German Shepherd,,Adult,Large,Female,Mumbai,Maharashtra,Adopted,11-02-2025 13:18,12-02-2025 13:18
+DOG0140,Shadow,German Shepherd,,Young,Large,Female,Mumbai,Maharashtra,Adopted,25-07-2025 13:18,28-07-2025 13:18
+DOG0141,Cooper,Mixed Breed,Mixed,Adult,Medium,Male,Ahmedabad,Gujarat,Pending,01-10-2025 13:18,04-10-2025 13:18
+DOG0142,Pepper,Golden Retriever,,Young,Large,Female,Ahmedabad,Gujarat,Adopted,16-11-2025 13:18,19-11-2025 13:18
+DOG0143,Buddy,Labrador Retriever,,Adult,Large,Male,Pune,Maharashtra,Adopted,22-01-2025 13:18,23-01-2025 13:18
+DOG0144,Zeus,Indian Pariah Dog,,Young,Medium,Male,Delhi,Delhi,Available,03-12-2025 13:18,06-12-2025 13:18
+DOG0145,Luna,Labrador Retriever,,Puppy,Large,Male,Hyderabad,Telangana,Adopted,05-07-2025 13:18,08-07-2025 13:18
+DOG0146,Pepper,Indian Pariah Dog,,Puppy,Medium,Male,Jaipur,Rajasthan,Adopted,09-07-2025 13:18,11-07-2025 13:18
+DOG0147,Tiger,Indian Pariah Dog,,Puppy,Medium,Male,Chennai,Tamil Nadu,Available,12-10-2025 13:18,12-10-2025 13:18
+DOG0148,Simba,Golden Retriever,,Puppy,Large,Female,Chennai,Tamil Nadu,Adopted,09-03-2025 13:18,11-03-2025 13:18
+DOG0149,Jack,Indian Pariah Dog,,Adult,Medium,Female,Mumbai,Maharashtra,Available,02-07-2025 13:18,05-07-2025 13:18
+DOG0150,Moti,Beagle,,Puppy,Small,Female,Bangalore,Karnataka,Available,25-06-2025 13:18,28-06-2025 13:18
+DOG0151,Brownie,Indian Pariah Dog,,Puppy,Medium,Male,Chennai,Tamil Nadu,Adopted,13-08-2025 13:18,13-08-2025 13:18
+DOG0152,Cooper,Beagle,,Senior,Small,Male,Chennai,Tamil Nadu,Adopted,07-07-2025 13:18,10-07-2025 13:18
+DOG0153,Jack,Rottweiler,,Young,Large,Female,Hyderabad,Telangana,Available,18-10-2025 13:18,19-10-2025 13:18
+DOG0154,Cooper,Rottweiler,,Young,Large,Male,Kolkata,West Bengal,Pending,22-05-2025 13:18,22-05-2025 13:18
+DOG0155,Sadie,Labrador Retriever,,Puppy,Large,Male,Mumbai,Maharashtra,Pending,17-10-2025 13:18,19-10-2025 13:18
+DOG0156,Moti,Pug,,Puppy,Small,Male,Chennai,Tamil Nadu,Available,23-04-2025 13:18,26-04-2025 13:18
+DOG0157,Leo,Golden Retriever,,Puppy,Large,Female,Delhi,Delhi,Adopted,02-02-2025 13:18,03-02-2025 13:18
+DOG0158,Tiger,Mixed Breed,Mixed,Puppy,Medium,Female,Bangalore,Karnataka,Adopted,29-03-2025 13:18,31-03-2025 13:18
+DOG0159,Luna,German Shepherd,,Young,Large,Female,Chennai,Tamil Nadu,Adopted,16-07-2025 13:18,19-07-2025 13:18
+DOG0160,Leo,Labrador Retriever,,Young,Large,Female,Mumbai,Maharashtra,Available,18-06-2025 13:18,21-06-2025 13:18
+DOG0161,Pepper,Indian Pariah Dog,,Senior,Medium,Female,Mumbai,Maharashtra,Adopted,13-09-2025 13:18,14-09-2025 13:18
+DOG0162,Lucy,Shih Tzu,,Young,Small,Female,Chennai,Tamil Nadu,Adopted,12-08-2025 13:18,14-08-2025 13:18
+DOG0163,Lucy,Golden Retriever,,Puppy,Large,Female,Lucknow,Uttar Pradesh,Adopted,09-06-2025 13:18,10-06-2025 13:18
+DOG0164,Lucy,Labrador Retriever,,Puppy,Large,Male,Pune,Maharashtra,Adopted,09-05-2025 13:18,09-05-2025 13:18
+DOG0165,Molly,Indie Mix,Mixed,Young,Medium,Male,Pune,Maharashtra,Adopted,04-05-2025 13:18,06-05-2025 13:18
+DOG0166,Brownie,Indian Pariah Dog,,Puppy,Medium,Male,Mumbai,Maharashtra,Available,20-09-2025 13:18,22-09-2025 13:18
+DOG0167,Max,Indian Pariah Dog,,Adult,Medium,Female,Mumbai,Maharashtra,Adopted,17-05-2025 13:18,17-05-2025 13:18
+DOG0168,Sheru,Golden Retriever,,Young,Large,Male,Lucknow,Uttar Pradesh,Adopted,18-03-2025 13:18,20-03-2025 13:18
+DOG0169,Oscar,Labrador Retriever,,Adult,Large,Female,Mumbai,Maharashtra,Adopted,27-03-2025 13:18,28-03-2025 13:18
+DOG0170,Rex,Shih Tzu,,Senior,Small,Female,Delhi,Delhi,Available,04-02-2025 13:18,05-02-2025 13:18
+DOG0171,Rex,Indian Pariah Dog,,Young,Medium,Male,Kolkata,West Bengal,Adopted,14-12-2025 13:18,17-12-2025 13:18
+DOG0172,Zeus,German Shepherd,,Young,Large,Female,Hyderabad,Telangana,Available,02-10-2025 13:18,03-10-2025 13:18
+DOG0173,Cooper,Labrador Retriever,,Young,Large,Female,Chandigarh,Chandigarh,Adopted,30-04-2025 13:18,01-05-2025 13:18
+DOG0174,Oscar,Indie Mix,Mixed,Young,Medium,Male,Bangalore,Karnataka,Pending,19-12-2025 13:18,21-12-2025 13:18
+DOG0175,Bella,Labrador Retriever,,Adult,Large,Male,Mumbai,Maharashtra,Available,07-10-2025 13:18,07-10-2025 13:18
+DOG0176,Buddy,Mixed Breed,Mixed,Puppy,Medium,Female,Hyderabad,Telangana,Adopted,18-11-2025 13:18,19-11-2025 13:18
+DOG0177,Sheru,Labrador Retriever,,Young,Large,Female,Kochi,Kerala,Adopted,02-07-2025 13:18,02-07-2025 13:18
+DOG0178,Bruno,German Shepherd,,Young,Large,Male,Ahmedabad,Gujarat,Adopted,19-03-2025 13:18,19-03-2025 13:18
+DOG0179,Buddy,Golden Retriever,,Puppy,Large,Male,Pune,Maharashtra,Adopted,23-05-2025 13:18,26-05-2025 13:18
+DOG0180,Bella,Indie Mix,Mixed,Adult,Medium,Female,Mumbai,Maharashtra,Available,16-12-2025 13:18,16-12-2025 13:18
+DOG0181,Rex,Mixed Breed,Mixed,Young,Medium,Male,Chandigarh,Chandigarh,Adopted,21-06-2025 13:18,22-06-2025 13:18
+DOG0182,Coco,Labrador Retriever,,Young,Large,Female,Chennai,Tamil Nadu,Available,03-02-2025 13:18,06-02-2025 13:18
+DOG0183,Brownie,Pug,,Puppy,Small,Male,Lucknow,Uttar Pradesh,Pending,02-08-2025 13:18,04-08-2025 13:18
+DOG0184,Buddy,Shih Tzu,,Young,Small,Male,Hyderabad,Telangana,Available,07-07-2025 13:18,08-07-2025 13:18
+DOG0185,Leo,Indian Pariah Dog,,Young,Medium,Male,Chandigarh,Chandigarh,Adopted,13-01-2026 13:18,13-01-2026 13:18
+DOG0186,Pepper,Pug,,Young,Small,Male,Mumbai,Maharashtra,Adopted,08-08-2025 13:18,08-08-2025 13:18
+DOG0187,Coco,German Shepherd,,Young,Large,Male,Bangalore,Karnataka,Adopted,12-09-2025 13:18,15-09-2025 13:18
+DOG0188,Zeus,Indian Pariah Dog,,Young,Medium,Female,Kochi,Kerala,Available,10-10-2025 13:18,10-10-2025 13:18
+DOG0189,Moti,Rottweiler,,Young,Large,Female,Hyderabad,Telangana,Adopted,11-10-2025 13:18,12-10-2025 13:18
+DOG0190,Shadow,German Shepherd,,Young,Large,Female,Bangalore,Karnataka,Available,02-08-2025 13:18,03-08-2025 13:18
+DOG0191,Moti,Mixed Breed,Mixed,Young,Medium,Female,Hyderabad,Telangana,Adopted,27-10-2025 13:18,27-10-2025 13:18
+DOG0192,Charlie,Indian Pariah Dog,,Adult,Medium,Female,Kolkata,West Bengal,Available,21-08-2025 13:18,23-08-2025 13:18
+DOG0193,Oscar,Indian Pariah Dog,,Young,Medium,Male,Bangalore,Karnataka,Adopted,21-06-2025 13:18,23-06-2025 13:18
+DOG0194,Charlie,Siberian Husky,,Young,Large,Female,Jaipur,Rajasthan,Available,26-05-2025 13:18,29-05-2025 13:18
+DOG0195,Oreo,Mixed Breed,Mixed,Puppy,Medium,Female,Hyderabad,Telangana,Adopted,05-08-2025 13:18,05-08-2025 13:18
+DOG0196,Sadie,Shih Tzu,,Adult,Small,Male,Bangalore,Karnataka,Adopted,26-07-2025 13:18,27-07-2025 13:18
+DOG0197,Cooper,Indian Pariah Dog,,Puppy,Medium,Male,Bangalore,Karnataka,Adopted,11-08-2025 13:18,12-08-2025 13:18
+DOG0198,Tiger,Labrador Retriever,,Young,Large,Male,Chandigarh,Chandigarh,Available,10-01-2026 13:18,13-01-2026 13:18
+DOG0199,Pepper,Labrador Retriever,,Puppy,Large,Female,Kolkata,West Bengal,Adopted,13-01-2026 13:18,14-01-2026 13:18
+DOG0200,Moti,Beagle,,Young,Small,Female,Delhi,Delhi,Adopted,03-12-2025 13:18,05-12-2025 13:18
+DOG0201,Bruno,Golden Retriever,,Young,Large,Female,Bangalore,Karnataka,Adopted,31-10-2025 13:18,31-10-2025 13:18
+DOG0202,Oreo,Indian Pariah Dog,,Puppy,Medium,Female,Hyderabad,Telangana,Adopted,29-04-2025 13:18,29-04-2025 13:18
+DOG0203,Bruno,Mixed Breed,Mixed,Puppy,Medium,Male,Mumbai,Maharashtra,Available,23-01-2025 13:18,24-01-2025 13:18
+DOG0204,Max,Labrador Retriever,,Puppy,Large,Female,Kolkata,West Bengal,Adopted,19-08-2025 13:18,19-08-2025 13:18
+DOG0205,Tiger,Pug,,Puppy,Small,Female,Chennai,Tamil Nadu,Adopted,29-01-2025 13:18,01-02-2025 13:18
+DOG0206,Oscar,Labrador Retriever,,Puppy,Large,Female,Delhi,Delhi,Pending,10-10-2025 13:18,11-10-2025 13:18
+DOG0207,Daisy,Beagle,,Puppy,Small,Male,Delhi,Delhi,Adopted,05-06-2025 13:18,06-06-2025 13:18
+DOG0208,Max,Labrador Retriever,,Young,Large,Male,Chennai,Tamil Nadu,Adopted,18-07-2025 13:18,18-07-2025 13:18
+DOG0209,Moti,Labrador Retriever,,Adult,Large,Male,Kolkata,West Bengal,Adopted,04-10-2025 13:18,06-10-2025 13:18
+DOG0210,Chloe,Labrador Retriever,,Puppy,Large,Female,Bangalore,Karnataka,Adopted,12-08-2025 13:18,12-08-2025 13:18
+DOG0211,Cooper,Golden Retriever,,Young,Large,Male,Jaipur,Rajasthan,Adopted,27-11-2025 13:18,29-11-2025 13:18
+DOG0212,Rocky,German Shepherd,,Young,Large,Female,Mumbai,Maharashtra,Pending,24-10-2025 13:18,24-10-2025 13:18
+DOG0213,Leo,Labrador Retriever,,Adult,Large,Male,Chandigarh,Chandigarh,Pending,22-01-2025 13:18,23-01-2025 13:18
+DOG0214,Oscar,Siberian Husky,,Puppy,Large,Female,Kolkata,West Bengal,Adopted,09-05-2025 13:18,10-05-2025 13:18
+DOG0215,Buddy,Labrador Retriever,,Puppy,Large,Male,Hyderabad,Telangana,Adopted,24-05-2025 13:18,26-05-2025 13:18
+DOG0216,Luna,Mixed Breed,Mixed,Young,Medium,Female,Hyderabad,Telangana,Available,20-09-2025 13:18,21-09-2025 13:18
+DOG0217,Molly,Golden Retriever,,Young,Large,Female,Hyderabad,Telangana,Available,17-04-2025 13:18,18-04-2025 13:18
+DOG0218,Molly,Pug,,Puppy,Small,Female,Lucknow,Uttar Pradesh,Adopted,20-08-2025 13:18,20-08-2025 13:18
+DOG0219,Zeus,Mixed Breed,Mixed,Puppy,Medium,Female,Ahmedabad,Gujarat,Available,10-07-2025 13:18,11-07-2025 13:18
+DOG0220,Coco,Mixed Breed,Mixed,Puppy,Medium,Female,Mumbai,Maharashtra,Available,01-06-2025 13:18,03-06-2025 13:18
+DOG0221,Leo,German Shepherd,,Puppy,Large,Female,Kolkata,West Bengal,Available,20-09-2025 13:18,21-09-2025 13:18
+DOG0222,Sheru,Indian Pariah Dog,,Puppy,Medium,Male,Chandigarh,Chandigarh,Adopted,16-05-2025 13:18,19-05-2025 13:18
+DOG0223,Molly,Indian Pariah Dog,,Puppy,Medium,Male,Jaipur,Rajasthan,Adopted,24-02-2025 13:18,24-02-2025 13:18
+DOG0224,Buddy,German Shepherd,,Puppy,Large,Female,Pune,Maharashtra,Adopted,01-11-2025 13:18,02-11-2025 13:18
+DOG0225,Jack,Indie Mix,Mixed,Adult,Medium,Female,Pune,Maharashtra,Available,25-07-2025 13:18,28-07-2025 13:18
+DOG0226,Charlie,Golden Retriever,,Puppy,Large,Female,Pune,Maharashtra,Adopted,08-02-2025 13:18,11-02-2025 13:18
+DOG0227,Oscar,German Shepherd,,Puppy,Large,Male,Mumbai,Maharashtra,Adopted,05-09-2025 13:18,05-09-2025 13:18
+DOG0228,Daisy,German Shepherd,,Young,Large,Female,Kolkata,West Bengal,Available,01-12-2025 13:18,03-12-2025 13:18
+DOG0229,Oreo,Shih Tzu,,Young,Small,Female,Delhi,Delhi,Available,18-07-2025 13:18,19-07-2025 13:18
+DOG0230,Charlie,Labrador Retriever,,Young,Large,Female,Jaipur,Rajasthan,Adopted,19-07-2025 13:18,22-07-2025 13:18
+DOG0231,Daisy,Indian Pariah Dog,,Puppy,Medium,Male,Delhi,Delhi,Available,30-09-2025 13:18,03-10-2025 13:18
+DOG0232,Daisy,German Shepherd,,Adult,Large,Female,Lucknow,Uttar Pradesh,Adopted,15-02-2025 13:18,15-02-2025 13:18
+DOG0233,Moti,Mixed Breed,Mixed,Puppy,Medium,Female,Kolkata,West Bengal,Pending,30-11-2025 13:18,03-12-2025 13:18
+DOG0234,Tiger,Labrador Retriever,,Puppy,Large,Male,Delhi,Delhi,Adopted,21-08-2025 13:18,22-08-2025 13:18
+DOG0235,Brownie,German Shepherd,,Puppy,Large,Male,Hyderabad,Telangana,Available,11-02-2025 13:18,14-02-2025 13:18
+DOG0236,Leo,Shih Tzu,,Young,Small,Male,Mumbai,Maharashtra,Adopted,22-09-2025 13:18,22-09-2025 13:18
+DOG0237,Rex,Labrador Retriever,,Puppy,Large,Female,Kolkata,West Bengal,Adopted,21-01-2025 13:18,23-01-2025 13:18
+DOG0238,Daisy,Mixed Breed,Mixed,Young,Medium,Female,Lucknow,Uttar Pradesh,Pending,03-08-2025 13:18,03-08-2025 13:18
+DOG0239,Lucy,Mixed Breed,Mixed,Young,Medium,Male,Lucknow,Uttar Pradesh,Adopted,31-08-2025 13:18,31-08-2025 13:18
+DOG0240,Sadie,Indie Mix,Mixed,Young,Medium,Male,Delhi,Delhi,Adopted,06-03-2025 13:18,07-03-2025 13:18
+DOG0241,Chloe,Labrador Retriever,,Puppy,Large,Female,Chennai,Tamil Nadu,Adopted,21-03-2025 13:18,23-03-2025 13:18
+DOG0242,Bella,Indian Pariah Dog,,Puppy,Medium,Female,Mumbai,Maharashtra,Available,06-03-2025 13:18,09-03-2025 13:18
+DOG0243,Oscar,Mixed Breed,Mixed,Adult,Medium,Male,Ahmedabad,Gujarat,Pending,24-06-2025 13:18,27-06-2025 13:18
+DOG0244,Oreo,Shih Tzu,,Young,Small,Female,Bangalore,Karnataka,Adopted,03-10-2025 13:18,04-10-2025 13:18
+DOG0245,Rex,Labrador Retriever,,Young,Large,Male,Mumbai,Maharashtra,Available,15-11-2025 13:18,18-11-2025 13:18
+DOG0246,Simba,Beagle,,Puppy,Small,Male,Chandigarh,Chandigarh,Adopted,20-03-2025 13:18,23-03-2025 13:18
+DOG0247,Jack,Golden Retriever,,Puppy,Large,Male,Mumbai,Maharashtra,Adopted,20-03-2025 13:18,21-03-2025 13:18
+DOG0248,Moti,Pug,,Puppy,Small,Female,Jaipur,Rajasthan,Adopted,15-05-2025 13:18,15-05-2025 13:18
+DOG0249,Oscar,Beagle,,Young,Small,Female,Chennai,Tamil Nadu,Available,06-03-2025 13:18,06-03-2025 13:18
+DOG0250,Max,Indie Mix,Mixed,Young,Medium,Male,Mumbai,Maharashtra,Adopted,16-08-2025 13:18,17-08-2025 13:18
+DOG0251,Zeus,Golden Retriever,,Puppy,Large,Female,Kochi,Kerala,Adopted,02-08-2025 13:18,05-08-2025 13:18
+DOG0252,Molly,Golden Retriever,,Puppy,Large,Male,Lucknow,Uttar Pradesh,Adopted,14-12-2025 13:18,16-12-2025 13:18
+DOG0253,Luna,Indian Pariah Dog,,Puppy,Medium,Female,Pune,Maharashtra,Pending,30-04-2025 13:18,01-05-2025 13:18
+DOG0254,Sheru,Mixed Breed,Mixed,Young,Medium,Male,Jaipur,Rajasthan,Adopted,06-06-2025 13:18,09-06-2025 13:18
+DOG0255,Luna,Beagle,,Young,Small,Female,Chandigarh,Chandigarh,Adopted,08-08-2025 13:18,09-08-2025 13:18
+DOG0256,Bruno,Indian Pariah Dog,,Puppy,Medium,Female,Bangalore,Karnataka,Available,08-09-2025 13:18,11-09-2025 13:18
+DOG0257,Charlie,Labrador Retriever,,Young,Large,Female,Delhi,Delhi,Pending,07-05-2025 13:18,09-05-2025 13:18
+DOG0258,Sheru,Labrador Retriever,,Puppy,Large,Female,Bangalore,Karnataka,Available,26-09-2025 13:18,27-09-2025 13:18
+DOG0259,Chloe,Indian Pariah Dog,,Puppy,Medium,Female,Kolkata,West Bengal,Pending,24-03-2025 13:18,26-03-2025 13:18
+DOG0260,Brownie,Labrador Retriever,,Young,Large,Male,Kolkata,West Bengal,Adopted,06-01-2026 13:18,06-01-2026 13:18
+DOG0261,Moti,German Shepherd,,Young,Large,Female,Bangalore,Karnataka,Adopted,04-02-2025 13:18,06-02-2025 13:18
+DOG0262,Luna,Pug,,Puppy,Small,Male,Bangalore,Karnataka,Adopted,16-04-2025 13:18,18-04-2025 13:18
+DOG0263,Shadow,Labrador Retriever,,Senior,Large,Female,Mumbai,Maharashtra,Pending,07-09-2025 13:18,07-09-2025 13:18
+DOG0264,Bella,Labrador Retriever,,Young,Large,Male,Chandigarh,Chandigarh,Available,28-06-2025 13:18,29-06-2025 13:18
+DOG0265,Lucy,Indian Pariah Dog,,Puppy,Medium,Male,Hyderabad,Telangana,Adopted,16-05-2025 13:18,18-05-2025 13:18
+DOG0266,Luna,Golden Retriever,,Young,Large,Male,Delhi,Delhi,Available,18-08-2025 13:18,18-08-2025 13:18
+DOG0267,Sheru,Indie Mix,Mixed,Puppy,Medium,Female,Chennai,Tamil Nadu,Available,04-12-2025 13:18,05-12-2025 13:18
+DOG0268,Sadie,Golden Retriever,,Puppy,Large,Male,Kolkata,West Bengal,Adopted,29-10-2025 13:18,29-10-2025 13:18
+DOG0269,Pepper,Indian Pariah Dog,,Young,Medium,Female,Delhi,Delhi,Adopted,31-08-2025 13:18,31-08-2025 13:18
+DOG0270,Bella,Mixed Breed,Mixed,Puppy,Medium,Female,Bangalore,Karnataka,Available,29-08-2025 13:18,29-08-2025 13:18
+DOG0271,Moti,Beagle,,Young,Small,Female,Kolkata,West Bengal,Adopted,04-02-2025 13:18,05-02-2025 13:18
+DOG0272,Oscar,Golden Retriever,,Puppy,Large,Female,Delhi,Delhi,Pending,08-03-2025 13:18,10-03-2025 13:18
+DOG0273,Leo,Mixed Breed,Mixed,Young,Medium,Male,Delhi,Delhi,Pending,12-07-2025 13:18,13-07-2025 13:18
+DOG0274,Cooper,Golden Retriever,,Puppy,Large,Male,Jaipur,Rajasthan,Adopted,28-12-2025 13:18,29-12-2025 13:18
+DOG0275,Sadie,Indie Mix,Mixed,Senior,Medium,Female,Bangalore,Karnataka,Adopted,17-05-2025 13:18,20-05-2025 13:18
+DOG0276,Pepper,Labrador Retriever,,Young,Large,Female,Kolkata,West Bengal,Adopted,26-02-2025 13:18,27-02-2025 13:18
+DOG0277,Leo,Golden Retriever,,Puppy,Large,Female,Pune,Maharashtra,Available,02-08-2025 13:18,03-08-2025 13:18
+DOG0278,Lucy,Indian Pariah Dog,,Young,Medium,Male,Delhi,Delhi,Adopted,05-08-2025 13:18,08-08-2025 13:18
+DOG0279,Shadow,Pug,,Puppy,Small,Female,Mumbai,Maharashtra,Pending,21-02-2025 13:18,22-02-2025 13:18
+DOG0280,Bruno,Labrador Retriever,,Young,Large,Female,Mumbai,Maharashtra,Available,09-04-2025 13:18,11-04-2025 13:18
+DOG0281,Luna,Labrador Retriever,,Adult,Large,Female,Bangalore,Karnataka,Adopted,04-09-2025 13:18,05-09-2025 13:18
+DOG0282,Oscar,Golden Retriever,,Puppy,Large,Female,Kochi,Kerala,Pending,07-10-2025 13:18,07-10-2025 13:18
+DOG0283,Tiger,Indie Mix,Mixed,Young,Medium,Female,Hyderabad,Telangana,Available,27-05-2025 13:18,28-05-2025 13:18
+DOG0284,Bruno,Indie Mix,Mixed,Young,Medium,Female,Lucknow,Uttar Pradesh,Adopted,20-11-2025 13:18,21-11-2025 13:18
+DOG0285,Bruno,Golden Retriever,,Puppy,Large,Female,Kochi,Kerala,Available,21-08-2025 13:18,24-08-2025 13:18
+DOG0286,Luna,German Shepherd,,Puppy,Large,Male,Kolkata,West Bengal,Pending,25-01-2025 13:18,28-01-2025 13:18
+DOG0287,Luna,German Shepherd,,Young,Large,Male,Pune,Maharashtra,Available,09-12-2025 13:18,10-12-2025 13:18
+DOG0288,Moti,Golden Retriever,,Adult,Large,Male,Chennai,Tamil Nadu,Available,19-04-2025 13:18,20-04-2025 13:18
+DOG0289,Shadow,Indian Pariah Dog,,Puppy,Medium,Male,Delhi,Delhi,Available,20-11-2025 13:18,20-11-2025 13:18
+DOG0290,Tiger,Indie Mix,Mixed,Adult,Medium,Female,Mumbai,Maharashtra,Adopted,04-09-2025 13:18,05-09-2025 13:18
+DOG0291,Simba,Shih Tzu,,Young,Small,Female,Mumbai,Maharashtra,Adopted,14-06-2025 13:18,17-06-2025 13:18
+DOG0292,Buddy,Indian Pariah Dog,,Puppy,Medium,Female,Mumbai,Maharashtra,Available,03-10-2025 13:18,03-10-2025 13:18
+DOG0293,Daisy,Pug,,Young,Small,Female,Delhi,Delhi,Adopted,12-12-2025 13:18,12-12-2025 13:18
+DOG0294,Pepper,Mixed Breed,Mixed,Young,Medium,Male,Ahmedabad,Gujarat,Adopted,14-01-2026 13:18,15-01-2026 13:18
+DOG0295,Shadow,Labrador Retriever,,Young,Large,Male,Delhi,Delhi,Adopted,16-06-2025 13:18,17-06-2025 13:18
+DOG0296,Luna,Mixed Breed,Mixed,Adult,Medium,Female,Bangalore,Karnataka,Pending,20-02-2025 13:18,20-02-2025 13:18
+DOG0297,Jack,Golden Retriever,,Young,Large,Male,Pune,Maharashtra,Adopted,18-10-2025 13:18,19-10-2025 13:18
+DOG0298,Moti,Indian Pariah Dog,,Adult,Medium,Male,Bangalore,Karnataka,Available,30-07-2025 13:18,01-08-2025 13:18
+DOG0299,Cooper,Labrador Retriever,,Adult,Large,Male,Lucknow,Uttar Pradesh,Adopted,18-08-2025 13:18,19-08-2025 13:18
+DOG0300,Daisy,Labrador Retriever,,Young,Large,Female,Chandigarh,Chandigarh,Adopted,26-01-2025 13:18,27-01-2025 13:18
+DOG0301,Molly,Golden Retriever,,Puppy,Large,Female,Delhi,Delhi,Adopted,07-03-2025 13:18,08-03-2025 13:18
+DOG0302,Moti,Indian Pariah Dog,,Puppy,Medium,Male,Mumbai,Maharashtra,Available,07-03-2025 13:18,10-03-2025 13:18
+DOG0303,Rocky,Labrador Retriever,,Puppy,Large,Female,Kochi,Kerala,Adopted,26-09-2025 13:18,29-09-2025 13:18
+DOG0304,Rocky,Rottweiler,,Senior,Large,Female,Hyderabad,Telangana,Available,26-07-2025 13:18,29-07-2025 13:18
+DOG0305,Charlie,Golden Retriever,,Young,Large,Female,Chennai,Tamil Nadu,Adopted,23-12-2025 13:18,23-12-2025 13:18
+DOG0306,Shadow,Indian Pariah Dog,,Puppy,Medium,Male,Delhi,Delhi,Adopted,29-07-2025 13:18,31-07-2025 13:18
+DOG0307,Jack,Siberian Husky,,Adult,Large,Male,Ahmedabad,Gujarat,Available,15-04-2025 13:18,18-04-2025 13:18
+DOG0308,Oscar,Golden Retriever,,Young,Large,Female,Kolkata,West Bengal,Adopted,10-05-2025 13:18,13-05-2025 13:18
+DOG0309,Oscar,Mixed Breed,Mixed,Young,Medium,Male,Delhi,Delhi,Adopted,08-09-2025 13:18,08-09-2025 13:18
+DOG0310,Oscar,Mixed Breed,Mixed,Senior,Medium,Female,Pune,Maharashtra,Available,19-10-2025 13:18,22-10-2025 13:18
+DOG0311,Rex,Shih Tzu,,Young,Small,Female,Mumbai,Maharashtra,Adopted,02-02-2025 13:18,02-02-2025 13:18
+DOG0312,Jack,Indie Mix,Mixed,Puppy,Medium,Female,Chennai,Tamil Nadu,Pending,25-01-2025 13:18,26-01-2025 13:18
+DOG0313,Luna,Golden Retriever,,Young,Large,Female,Lucknow,Uttar Pradesh,Adopted,16-06-2025 13:18,17-06-2025 13:18
+DOG0314,Pepper,Golden Retriever,,Young,Large,Female,Pune,Maharashtra,Adopted,05-02-2025 13:18,07-02-2025 13:18
+DOG0315,Cooper,Labrador Retriever,,Young,Large,Female,Hyderabad,Telangana,Adopted,22-11-2025 13:18,23-11-2025 13:18
+DOG0316,Coco,Pug,,Young,Small,Female,Jaipur,Rajasthan,Adopted,17-10-2025 13:18,19-10-2025 13:18
+DOG0317,Oscar,Golden Retriever,,Young,Large,Male,Bangalore,Karnataka,Adopted,16-12-2025 13:18,18-12-2025 13:18
+DOG0318,Luna,Shih Tzu,,Adult,Small,Male,Chennai,Tamil Nadu,Adopted,04-02-2025 13:18,05-02-2025 13:18
+DOG0319,Oreo,German Shepherd,,Adult,Large,Male,Chennai,Tamil Nadu,Available,08-04-2025 13:18,10-04-2025 13:18
+DOG0320,Buddy,Indie Mix,Mixed,Young,Medium,Female,Jaipur,Rajasthan,Adopted,05-12-2025 13:18,07-12-2025 13:18
+DOG0321,Daisy,Mixed Breed,Mixed,Puppy,Medium,Female,Pune,Maharashtra,Adopted,14-12-2025 13:18,14-12-2025 13:18
+DOG0322,Charlie,Shih Tzu,,Puppy,Small,Female,Hyderabad,Telangana,Adopted,27-05-2025 13:18,28-05-2025 13:18
+DOG0323,Jack,Labrador Retriever,,Young,Large,Male,Delhi,Delhi,Adopted,22-03-2025 13:18,25-03-2025 13:18
+DOG0324,Pepper,Shih Tzu,,Puppy,Small,Female,Ahmedabad,Gujarat,Adopted,19-11-2025 13:18,22-11-2025 13:18
+DOG0325,Luna,Beagle,,Puppy,Small,Male,Hyderabad,Telangana,Adopted,30-09-2025 13:18,30-09-2025 13:18
+DOG0326,Zeus,German Shepherd,,Puppy,Large,Female,Delhi,Delhi,Adopted,27-03-2025 13:18,30-03-2025 13:18
+DOG0327,Luna,Indie Mix,Mixed,Adult,Medium,Male,Bangalore,Karnataka,Available,05-11-2025 13:18,07-11-2025 13:18
+DOG0328,Sheru,Mixed Breed,Mixed,Puppy,Medium,Female,Ahmedabad,Gujarat,Adopted,06-10-2025 13:18,08-10-2025 13:18
+DOG0329,Oreo,Labrador Retriever,,Young,Large,Male,Hyderabad,Telangana,Adopted,06-03-2025 13:18,06-03-2025 13:18
+DOG0330,Jack,Indian Pariah Dog,,Young,Medium,Male,Mumbai,Maharashtra,Available,24-08-2025 13:18,25-08-2025 13:18
+DOG0331,Shadow,Golden Retriever,,Adult,Large,Female,Chennai,Tamil Nadu,Available,27-05-2025 13:18,30-05-2025 13:18
+DOG0332,Luna,Pug,,Young,Small,Male,Bangalore,Karnataka,Adopted,08-02-2025 13:18,08-02-2025 13:18
+DOG0333,Tiger,Labrador Retriever,,Puppy,Large,Male,Delhi,Delhi,Adopted,30-08-2025 13:18,31-08-2025 13:18
+DOG0334,Moti,Beagle,,Young,Small,Female,Mumbai,Maharashtra,Adopted,20-02-2025 13:18,22-02-2025 13:18
+DOG0335,Coco,Indian Pariah Dog,,Adult,Medium,Male,Lucknow,Uttar Pradesh,Available,09-11-2025 13:18,10-11-2025 13:18
+DOG0336,Pepper,Pug,,Young,Small,Female,Chennai,Tamil Nadu,Adopted,21-03-2025 13:18,22-03-2025 13:18
+DOG0337,Sheru,Labrador Retriever,,Young,Large,Female,Kolkata,West Bengal,Pending,15-12-2025 13:18,18-12-2025 13:18
+DOG0338,Daisy,Beagle,,Adult,Small,Female,Mumbai,Maharashtra,Adopted,06-03-2025 13:18,08-03-2025 13:18
+DOG0339,Max,German Shepherd,,Senior,Large,Female,Kolkata,West Bengal,Adopted,24-11-2025 13:18,24-11-2025 13:18
+DOG0340,Simba,Labrador Retriever,,Adult,Large,Female,Kolkata,West Bengal,Adopted,21-07-2025 13:18,23-07-2025 13:18
+DOG0341,Chloe,Golden Retriever,,Young,Large,Male,Delhi,Delhi,Available,26-09-2025 13:18,27-09-2025 13:18
+DOG0342,Max,Labrador Retriever,,Adult,Large,Male,Mumbai,Maharashtra,Adopted,22-05-2025 13:18,25-05-2025 13:18
+DOG0343,Zeus,Indian Pariah Dog,,Adult,Medium,Female,Bangalore,Karnataka,Adopted,24-07-2025 13:18,27-07-2025 13:18
+DOG0344,Coco,Beagle,,Puppy,Small,Male,Delhi,Delhi,Adopted,01-04-2025 13:18,02-04-2025 13:18
+DOG0345,Rocky,Labrador Retriever,,Puppy,Large,Female,Kochi,Kerala,Adopted,10-01-2026 13:18,13-01-2026 13:18
+DOG0346,Luna,Labrador Retriever,,Puppy,Large,Male,Ahmedabad,Gujarat,Available,22-12-2025 13:18,24-12-2025 13:18
+DOG0347,Duke,Indian Pariah Dog,,Young,Medium,Female,Mumbai,Maharashtra,Adopted,22-06-2025 13:18,22-06-2025 13:18
+DOG0348,Oscar,Golden Retriever,,Puppy,Large,Male,Kochi,Kerala,Adopted,07-05-2025 13:18,10-05-2025 13:18
+DOG0349,Shadow,Pug,,Young,Small,Male,Ahmedabad,Gujarat,Adopted,07-01-2026 13:18,07-01-2026 13:18
+DOG0350,Luna,German Shepherd,,Young,Large,Male,Lucknow,Uttar Pradesh,Available,02-03-2025 13:18,02-03-2025 13:18
+DOG0351,Shadow,Golden Retriever,,Puppy,Large,Male,Delhi,Delhi,Available,15-04-2025 13:18,18-04-2025 13:18
+DOG0352,Tiger,Indie Mix,Mixed,Young,Medium,Male,Delhi,Delhi,Adopted,07-11-2025 13:18,10-11-2025 13:18
+DOG0353,Daisy,Mixed Breed,Mixed,Young,Medium,Male,Pune,Maharashtra,Adopted,21-02-2025 13:18,21-02-2025 13:18
+DOG0354,Rocky,Indian Pariah Dog,,Puppy,Medium,Female,Bangalore,Karnataka,Available,05-11-2025 13:18,06-11-2025 13:18
+DOG0355,Pepper,Siberian Husky,,Puppy,Large,Female,Hyderabad,Telangana,Adopted,11-12-2025 13:18,11-12-2025 13:18
+DOG0356,Max,Mixed Breed,Mixed,Young,Medium,Male,Delhi,Delhi,Adopted,05-05-2025 13:18,06-05-2025 13:18
+DOG0357,Charlie,Mixed Breed,Mixed,Adult,Medium,Male,Hyderabad,Telangana,Adopted,20-09-2025 13:18,23-09-2025 13:18
+DOG0358,Buddy,Indian Pariah Dog,,Puppy,Medium,Male,Bangalore,Karnataka,Available,25-06-2025 13:18,27-06-2025 13:18
+DOG0359,Luna,German Shepherd,,Young,Large,Female,Delhi,Delhi,Available,06-12-2025 13:18,07-12-2025 13:18
+DOG0360,Lucy,Labrador Retriever,,Young,Large,Female,Delhi,Delhi,Adopted,12-01-2026 13:18,14-01-2026 13:18
+DOG0361,Zeus,Rottweiler,,Puppy,Large,Male,Delhi,Delhi,Adopted,09-10-2025 13:18,09-10-2025 13:18
+DOG0362,Oreo,Indian Pariah Dog,,Adult,Medium,Female,Pune,Maharashtra,Available,27-08-2025 13:18,30-08-2025 13:18
+DOG0363,Coco,Indian Pariah Dog,,Adult,Medium,Male,Mumbai,Maharashtra,Adopted,22-04-2025 13:18,22-04-2025 13:18
+DOG0364,Simba,Indie Mix,Mixed,Young,Medium,Female,Chennai,Tamil Nadu,Available,10-12-2025 13:18,11-12-2025 13:18
+DOG0365,Sheru,Golden Retriever,,Young,Large,Male,Chennai,Tamil Nadu,Adopted,01-04-2025 13:18,03-04-2025 13:18
+DOG0366,Zeus,Labrador Retriever,,Young,Large,Female,Chandigarh,Chandigarh,Adopted,17-02-2025 13:18,17-02-2025 13:18
+DOG0367,Sadie,German Shepherd,,Adult,Large,Female,Hyderabad,Telangana,Adopted,21-12-2025 13:18,24-12-2025 13:18
+DOG0368,Coco,Pug,,Adult,Small,Female,Delhi,Delhi,Adopted,13-05-2025 13:18,16-05-2025 13:18
+DOG0369,Molly,Golden Retriever,,Puppy,Large,Female,Chennai,Tamil Nadu,Adopted,17-06-2025 13:18,19-06-2025 13:18
+DOG0370,Chloe,Pug,,Young,Small,Female,Delhi,Delhi,Available,27-08-2025 13:18,27-08-2025 13:18
+DOG0371,Duke,Indian Pariah Dog,,Young,Medium,Female,Hyderabad,Telangana,Adopted,01-06-2025 13:18,03-06-2025 13:18
+DOG0372,Buddy,Labrador Retriever,,Young,Large,Male,Kolkata,West Bengal,Adopted,27-05-2025 13:18,30-05-2025 13:18
+DOG0373,Jack,Indian Pariah Dog,,Young,Medium,Male,Pune,Maharashtra,Adopted,13-01-2026 13:18,13-01-2026 13:18
+DOG0374,Shadow,Mixed Breed,Mixed,Puppy,Medium,Male,Jaipur,Rajasthan,Available,14-01-2026 13:18,14-01-2026 13:18
+DOG0375,Duke,Mixed Breed,Mixed,Puppy,Medium,Female,Hyderabad,Telangana,Available,14-09-2025 13:18,16-09-2025 13:18
+DOG0376,Simba,Golden Retriever,,Puppy,Large,Female,Chennai,Tamil Nadu,Available,24-08-2025 13:18,27-08-2025 13:18
+DOG0377,Sheru,Mixed Breed,Mixed,Puppy,Medium,Male,Mumbai,Maharashtra,Adopted,20-09-2025 13:18,23-09-2025 13:18
+DOG0378,Sheru,Rottweiler,,Young,Large,Female,Chennai,Tamil Nadu,Adopted,01-12-2025 13:18,02-12-2025 13:18
+DOG0379,Buddy,Labrador Retriever,,Young,Large,Male,Chandigarh,Chandigarh,Adopted,01-07-2025 13:18,04-07-2025 13:18
+DOG0380,Oscar,Indian Pariah Dog,,Adult,Medium,Male,Bangalore,Karnataka,Available,20-10-2025 13:18,23-10-2025 13:18
+DOG0381,Chloe,Mixed Breed,Mixed,Puppy,Medium,Female,Lucknow,Uttar Pradesh,Adopted,16-10-2025 13:18,17-10-2025 13:18
+DOG0382,Bella,Labrador Retriever,,Puppy,Large,Male,Kochi,Kerala,Adopted,02-10-2025 13:18,04-10-2025 13:18
+DOG0383,Sheru,Labrador Retriever,,Puppy,Large,Male,Kochi,Kerala,Adopted,22-09-2025 13:18,25-09-2025 13:18
+DOG0384,Bruno,Rottweiler,,Puppy,Large,Female,Kochi,Kerala,Adopted,28-02-2025 13:18,03-03-2025 13:18
+DOG0385,Rex,Labrador Retriever,,Young,Large,Male,Pune,Maharashtra,Adopted,02-07-2025 13:18,04-07-2025 13:18
+DOG0386,Zeus,Golden Retriever,,Adult,Large,Female,Chennai,Tamil Nadu,Available,21-01-2025 13:18,22-01-2025 13:18
+DOG0387,Lucy,Labrador Retriever,,Young,Large,Male,Bangalore,Karnataka,Adopted,04-11-2025 13:18,04-11-2025 13:18
+DOG0388,Rex,Beagle,,Puppy,Small,Male,Ahmedabad,Gujarat,Adopted,23-03-2025 13:18,26-03-2025 13:18
+DOG0389,Moti,German Shepherd,,Puppy,Large,Male,Delhi,Delhi,Adopted,06-09-2025 13:18,07-09-2025 13:18
+DOG0390,Molly,Beagle,,Senior,Small,Female,Hyderabad,Telangana,Adopted,23-08-2025 13:18,26-08-2025 13:18
+DOG0391,Sadie,Labrador Retriever,,Young,Large,Female,Chennai,Tamil Nadu,Available,13-04-2025 13:18,14-04-2025 13:18
+DOG0392,Moti,German Shepherd,,Adult,Large,Female,Mumbai,Maharashtra,Adopted,19-03-2025 13:18,22-03-2025 13:18
+DOG0393,Luna,Labrador Retriever,,Puppy,Large,Male,Kolkata,West Bengal,Adopted,07-02-2025 13:18,09-02-2025 13:18
+DOG0394,Cooper,Pug,,Young,Small,Male,Lucknow,Uttar Pradesh,Adopted,18-03-2025 13:18,18-03-2025 13:18
+DOG0395,Cooper,Pug,,Young,Small,Male,Delhi,Delhi,Available,13-05-2025 13:18,15-05-2025 13:18
+DOG0396,Moti,Shih Tzu,,Young,Small,Male,Delhi,Delhi,Adopted,11-11-2025 13:18,12-11-2025 13:18
+DOG0397,Coco,Labrador Retriever,,Puppy,Large,Male,Delhi,Delhi,Adopted,08-09-2025 13:18,11-09-2025 13:18
+DOG0398,Molly,Golden Retriever,,Young,Large,Female,Mumbai,Maharashtra,Adopted,23-07-2025 13:18,23-07-2025 13:18
+DOG0399,Daisy,Beagle,,Adult,Small,Female,Kochi,Kerala,Adopted,01-07-2025 13:18,02-07-2025 13:18
+DOG0400,Daisy,Mixed Breed,Mixed,Young,Medium,Female,Delhi,Delhi,Adopted,06-03-2025 13:18,08-03-2025 13:18
+DOG0401,Moti,Indian Pariah Dog,,Puppy,Medium,Male,Hyderabad,Telangana,Adopted,27-09-2025 13:18,30-09-2025 13:18
+DOG0402,Sheru,Labrador Retriever,,Young,Large,Female,Lucknow,Uttar Pradesh,Adopted,12-07-2025 13:18,15-07-2025 13:18
+DOG0403,Charlie,Mixed Breed,Mixed,Adult,Medium,Male,Chennai,Tamil Nadu,Adopted,05-04-2025 13:18,08-04-2025 13:18
+DOG0404,Bella,German Shepherd,,Young,Large,Female,Pune,Maharashtra,Available,09-08-2025 13:18,11-08-2025 13:18
+DOG0405,Moti,Indie Mix,Mixed,Puppy,Medium,Female,Bangalore,Karnataka,Adopted,12-12-2025 13:18,15-12-2025 13:18
+DOG0406,Cooper,Mixed Breed,,Puppy,Medium,Male,Delhi,Delhi,Available,13-04-2025 13:18,14-04-2025 13:18
+DOG0407,Rocky,Labrador Retriever,,Young,Large,Female,Pune,Maharashtra,Available,12-04-2025 13:18,12-04-2025 13:18
+DOG0408,Pepper,Mixed Breed,Mixed,Young,Medium,Female,Ahmedabad,Gujarat,Adopted,23-06-2025 13:18,24-06-2025 13:18
+DOG0409,Oscar,Labrador Retriever,,Puppy,Large,Female,Bangalore,Karnataka,Pending,10-05-2025 13:18,12-05-2025 13:18
+DOG0410,Shadow,Mixed Breed,Mixed,Young,Medium,Male,Hyderabad,Telangana,Available,28-01-2025 13:18,28-01-2025 13:18
+DOG0411,Coco,Indian Pariah Dog,,Puppy,Medium,Male,Chennai,Tamil Nadu,Available,18-03-2025 13:18,19-03-2025 13:18
+DOG0412,Charlie,Labrador Retriever,,Puppy,Large,Male,Jaipur,Rajasthan,Adopted,26-04-2025 13:18,26-04-2025 13:18
+DOG0413,Duke,Indian Pariah Dog,,Young,Medium,Male,Pune,Maharashtra,Adopted,07-12-2025 13:18,08-12-2025 13:18
+DOG0414,Oscar,Labrador Retriever,,Puppy,Large,Female,Jaipur,Rajasthan,Adopted,03-06-2025 13:18,03-06-2025 13:18
+DOG0415,Zeus,German Shepherd,,Young,Large,Male,Chennai,Tamil Nadu,Adopted,25-12-2025 13:18,26-12-2025 13:18
+DOG0416,Bruno,Indian Pariah Dog,,Puppy,Medium,Male,Chandigarh,Chandigarh,Adopted,12-06-2025 13:18,15-06-2025 13:18
+DOG0417,Brownie,Beagle,,Young,Small,Male,Kochi,Kerala,Adopted,15-06-2025 13:18,18-06-2025 13:18
+DOG0418,Oreo,Labrador Retriever,,Puppy,Large,Female,Hyderabad,Telangana,Available,05-10-2025 13:18,07-10-2025 13:18
+DOG0419,Daisy,Mixed Breed,Mixed,Senior,Medium,Female,Lucknow,Uttar Pradesh,Adopted,10-09-2025 13:18,13-09-2025 13:18
+DOG0420,Duke,Mixed Breed,Mixed,Puppy,Medium,Male,Kolkata,West Bengal,Adopted,02-10-2025 13:18,04-10-2025 13:18
+DOG0421,Luna,German Shepherd,,Adult,Large,Female,Hyderabad,Telangana,Pending,03-01-2026 13:18,05-01-2026 13:18
+DOG0422,Sheru,Rottweiler,,Young,Large,Male,Lucknow,Uttar Pradesh,Adopted,30-04-2025 13:18,30-04-2025 13:18
+DOG0423,Leo,Golden Retriever,,Young,Large,Female,Hyderabad,Telangana,Adopted,03-05-2025 13:18,04-05-2025 13:18
+DOG0424,Simba,Mixed Breed,Mixed,Senior,Medium,Female,Delhi,Delhi,Pending,05-03-2025 13:18,08-03-2025 13:18
+DOG0425,Oreo,Labrador Retriever,,Puppy,Large,Female,Chennai,Tamil Nadu,Available,27-05-2025 13:18,29-05-2025 13:18
+DOG0426,Bella,Labrador Retriever,,Senior,Large,Female,Mumbai,Maharashtra,Adopted,25-10-2025 13:18,28-10-2025 13:18
+DOG0427,Sheru,Indian Pariah Dog,,Puppy,Medium,Male,Bangalore,Karnataka,Pending,11-06-2025 13:18,11-06-2025 13:18
+DOG0428,Moti,Shih Tzu,,Puppy,Small,Female,Ahmedabad,Gujarat,Adopted,27-06-2025 13:18,27-06-2025 13:18
+DOG0429,Buddy,Indian Pariah Dog,,Senior,Medium,Female,Hyderabad,Telangana,Available,01-04-2025 13:18,02-04-2025 13:18
+DOG0430,Rocky,Indie Mix,Mixed,Young,Medium,Female,Mumbai,Maharashtra,Adopted,05-03-2025 13:18,08-03-2025 13:18
+DOG0431,Duke,German Shepherd,,Adult,Large,Male,Pune,Maharashtra,Adopted,06-02-2025 13:18,06-02-2025 13:18
+DOG0432,Oreo,Indian Pariah Dog,,Puppy,Medium,Female,Mumbai,Maharashtra,Adopted,09-10-2025 13:18,09-10-2025 13:18
+DOG0433,Buddy,Golden Retriever,,Young,Large,Female,Ahmedabad,Gujarat,Available,13-04-2025 13:18,13-04-2025 13:18
+DOG0434,Max,Golden Retriever,,Adult,Large,Male,Mumbai,Maharashtra,Available,03-07-2025 13:18,03-07-2025 13:18
+DOG0435,Rocky,German Shepherd,,Young,Large,Male,Mumbai,Maharashtra,Adopted,17-06-2025 13:18,20-06-2025 13:18
+DOG0436,Zeus,Shih Tzu,,Adult,Small,Female,Kolkata,West Bengal,Adopted,27-06-2025 13:18,28-06-2025 13:18
+DOG0437,Cooper,Indie Mix,Mixed,Puppy,Medium,Male,Delhi,Delhi,Adopted,05-02-2025 13:18,08-02-2025 13:18
+DOG0438,Jack,Labrador Retriever,,Young,Large,Male,Pune,Maharashtra,Available,27-06-2025 13:18,30-06-2025 13:18
+DOG0439,Buddy,Golden Retriever,,Adult,Large,Male,Pune,Maharashtra,Available,01-04-2025 13:18,04-04-2025 13:18
+DOG0440,Molly,Mixed Breed,,Puppy,Medium,Female,Chennai,Tamil Nadu,Available,29-09-2025 13:18,01-10-2025 13:18
+DOG0441,Charlie,Labrador Retriever,,Young,Large,Female,Delhi,Delhi,Adopted,10-06-2025 13:18,11-06-2025 13:18
+DOG0442,Sheru,Labrador Retriever,,Puppy,Large,Male,Delhi,Delhi,Adopted,31-12-2025 13:18,01-01-2026 13:18
+DOG0443,Oreo,Beagle,,Puppy,Small,Male,Mumbai,Maharashtra,Adopted,27-01-2025 13:18,28-01-2025 13:18
+DOG0444,Oreo,Pug,,Young,Small,Female,Chennai,Tamil Nadu,Adopted,12-11-2025 13:18,13-11-2025 13:18
+DOG0445,Daisy,Golden Retriever,,Young,Large,Male,Bangalore,Karnataka,Adopted,16-08-2025 13:18,16-08-2025 13:18
+DOG0446,Chloe,Labrador Retriever,,Puppy,Large,Female,Kolkata,West Bengal,Adopted,19-01-2026 13:18,21-01-2026 13:18
+DOG0447,Moti,Indian Pariah Dog,,Puppy,Medium,Female,Delhi,Delhi,Adopted,14-05-2025 13:18,17-05-2025 13:18
+DOG0448,Sadie,Beagle,,Adult,Small,Female,Hyderabad,Telangana,Available,21-02-2025 13:18,22-02-2025 13:18
+DOG0449,Leo,Indie Mix,Mixed,Adult,Medium,Male,Delhi,Delhi,Pending,11-01-2026 13:18,12-01-2026 13:18
+DOG0450,Rex,Labrador Retriever,,Young,Large,Male,Ahmedabad,Gujarat,Adopted,14-11-2025 13:18,16-11-2025 13:18
+DOG0451,Molly,Mixed Breed,Mixed,Young,Medium,Male,Mumbai,Maharashtra,Available,18-05-2025 13:18,19-05-2025 13:18
+DOG0452,Leo,Beagle,,Young,Small,Male,Delhi,Delhi,Available,20-12-2025 13:18,23-12-2025 13:18
+DOG0453,Lucy,Indian Pariah Dog,,Young,Medium,Male,Chandigarh,Chandigarh,Pending,05-04-2025 13:18,06-04-2025 13:18
+DOG0454,Oreo,German Shepherd,,Young,Large,Male,Bangalore,Karnataka,Available,21-03-2025 13:18,22-03-2025 13:18
+DOG0455,Max,Indie Mix,Mixed,Adult,Medium,Male,Lucknow,Uttar Pradesh,Adopted,25-08-2025 13:18,27-08-2025 13:18
+DOG0456,Oreo,Indian Pariah Dog,,Young,Medium,Female,Bangalore,Karnataka,Adopted,31-07-2025 13:18,03-08-2025 13:18
+DOG0457,Tiger,Shih Tzu,,Young,Small,Female,Mumbai,Maharashtra,Adopted,26-10-2025 13:18,29-10-2025 13:18
+DOG0458,Chloe,Labrador Retriever,,Young,Large,Male,Chennai,Tamil Nadu,Adopted,27-07-2025 13:18,28-07-2025 13:18
+DOG0459,Daisy,Labrador Retriever,,Young,Large,Male,Ahmedabad,Gujarat,Available,19-05-2025 13:18,22-05-2025 13:18
+DOG0460,Charlie,Mixed Breed,Mixed,Puppy,Medium,Female,Mumbai,Maharashtra,Adopted,08-06-2025 13:18,11-06-2025 13:18
+DOG0461,Coco,Beagle,,Young,Small,Female,Chennai,Tamil Nadu,Available,19-01-2026 13:18,22-01-2026 13:18
+DOG0462,Oreo,German Shepherd,,Young,Large,Male,Chandigarh,Chandigarh,Pending,08-05-2025 13:18,08-05-2025 13:18
+DOG0463,Luna,Mixed Breed,Mixed,Young,Medium,Female,Mumbai,Maharashtra,Adopted,02-01-2026 13:18,02-01-2026 13:18
+DOG0464,Jack,Labrador Retriever,,Adult,Large,Male,Lucknow,Uttar Pradesh,Adopted,11-09-2025 13:18,13-09-2025 13:18
+DOG0465,Oscar,Beagle,,Puppy,Small,Female,Chandigarh,Chandigarh,Adopted,31-10-2025 13:18,03-11-2025 13:18
+DOG0466,Charlie,Golden Retriever,,Puppy,Large,Female,Pune,Maharashtra,Available,28-01-2025 13:18,30-01-2025 13:18
+DOG0467,Zeus,Labrador Retriever,,Young,Large,Female,Delhi,Delhi,Adopted,21-12-2025 13:18,22-12-2025 13:18
+DOG0468,Luna,German Shepherd,,Young,Large,Male,Delhi,Delhi,Available,12-03-2025 13:18,13-03-2025 13:18
+DOG0469,Bruno,Labrador Retriever,,Puppy,Large,Male,Mumbai,Maharashtra,Pending,04-08-2025 13:18,04-08-2025 13:18
+DOG0470,Max,Shih Tzu,,Adult,Small,Male,Jaipur,Rajasthan,Adopted,11-06-2025 13:18,13-06-2025 13:18
+DOG0471,Tiger,German Shepherd,,Puppy,Large,Female,Pune,Maharashtra,Available,23-07-2025 13:18,24-07-2025 13:18
+DOG0472,Molly,Indian Pariah Dog,,Young,Medium,Male,Delhi,Delhi,Adopted,16-02-2025 13:18,17-02-2025 13:18
+DOG0473,Rocky,German Shepherd,,Puppy,Large,Female,Kolkata,West Bengal,Adopted,05-02-2025 13:18,06-02-2025 13:18
+DOG0474,Cooper,Indie Mix,Mixed,Puppy,Medium,Female,Hyderabad,Telangana,Adopted,01-01-2026 13:18,01-01-2026 13:18
+DOG0475,Sadie,Golden Retriever,,Puppy,Large,Male,Kolkata,West Bengal,Pending,07-12-2025 13:18,07-12-2025 13:18
+DOG0476,Bella,Pug,,Puppy,Small,Female,Pune,Maharashtra,Available,21-04-2025 13:18,24-04-2025 13:18
+DOG0477,Lucy,Labrador Retriever,,Young,Large,Female,Chennai,Tamil Nadu,Available,23-02-2025 13:18,24-02-2025 13:18
+DOG0478,Rex,Indian Pariah Dog,,Young,Medium,Male,Delhi,Delhi,Adopted,30-01-2025 13:18,31-01-2025 13:18
+DOG0479,Luna,German Shepherd,,Puppy,Large,Female,Kochi,Kerala,Adopted,19-05-2025 13:18,20-05-2025 13:18
+DOG0480,Moti,Mixed Breed,Mixed,Young,Medium,Male,Kochi,Kerala,Pending,21-05-2025 13:18,21-05-2025 13:18
+DOG0481,Zeus,Pug,,Puppy,Small,Female,Ahmedabad,Gujarat,Adopted,01-02-2025 13:18,02-02-2025 13:18
+DOG0482,Jack,Labrador Retriever,,Adult,Large,Female,Hyderabad,Telangana,Adopted,04-09-2025 13:18,05-09-2025 13:18
+DOG0483,Charlie,Shih Tzu,,Young,Small,Male,Mumbai,Maharashtra,Pending,20-08-2025 13:18,23-08-2025 13:18
+DOG0484,Luna,Labrador Retriever,,Young,Large,Female,Kochi,Kerala,Available,09-06-2025 13:18,10-06-2025 13:18
+DOG0485,Lucy,Labrador Retriever,,Young,Large,Male,Bangalore,Karnataka,Adopted,28-12-2025 13:18,28-12-2025 13:18
+DOG0486,Sheru,Siberian Husky,,Young,Large,Female,Hyderabad,Telangana,Pending,09-04-2025 13:18,10-04-2025 13:18
+DOG0487,Brownie,German Shepherd,,Adult,Large,Male,Ahmedabad,Gujarat,Adopted,18-08-2025 13:18,20-08-2025 13:18
+DOG0488,Sadie,Labrador Retriever,,Adult,Large,Female,Chennai,Tamil Nadu,Available,04-04-2025 13:18,07-04-2025 13:18
+DOG0489,Cooper,Indian Pariah Dog,,Puppy,Medium,Female,Ahmedabad,Gujarat,Adopted,12-03-2025 13:18,12-03-2025 13:18
+DOG0490,Rocky,Labrador Retriever,,Adult,Large,Male,Pune,Maharashtra,Available,05-10-2025 13:18,06-10-2025 13:18
+DOG0491,Oreo,Mixed Breed,Mixed,Young,Medium,Female,Chennai,Tamil Nadu,Adopted,12-06-2025 13:18,15-06-2025 13:18
+DOG0492,Simba,Indian Pariah Dog,,Adult,Medium,Female,Hyderabad,Telangana,Adopted,22-10-2025 13:18,23-10-2025 13:18
+DOG0493,Bruno,German Shepherd,,Young,Large,Male,Delhi,Delhi,Adopted,08-02-2025 13:18,11-02-2025 13:18
+DOG0494,Bruno,Beagle,,Puppy,Small,Female,Bangalore,Karnataka,Adopted,08-08-2025 13:18,10-08-2025 13:18
+DOG0495,Shadow,Mixed Breed,Mixed,Young,Medium,Male,Ahmedabad,Gujarat,Adopted,17-04-2025 13:18,19-04-2025 13:18
+DOG0496,Oscar,Mixed Breed,Mixed,Adult,Medium,Female,Hyderabad,Telangana,Adopted,04-05-2025 13:18,05-05-2025 13:18
+DOG0497,Oscar,Labrador Retriever,,Puppy,Large,Male,Bangalore,Karnataka,Available,23-06-2025 13:18,26-06-2025 13:18
+DOG0498,Bella,Indie Mix,Mixed,Young,Medium,Female,Delhi,Delhi,Available,06-03-2025 13:18,07-03-2025 13:18
+DOG0499,Moti,Indian Pariah Dog,,Adult,Medium,Female,Mumbai,Maharashtra,Available,09-11-2025 13:18,12-11-2025 13:18
+DOG0500,Duke,Indian Pariah Dog,,Young,Medium,Male,Pune,Maharashtra,Adopted,25-07-2025 13:18,27-07-2025 13:18
+DOG0501,Luna,Indian Pariah Dog,,Adult,Medium,Female,Delhi,Delhi,Pending,01-01-2026 13:18,02-01-2026 13:18
+DOG0502,Max,Pug,,Puppy,Small,Female,Chennai,Tamil Nadu,Adopted,16-07-2025 13:18,16-07-2025 13:18
+DOG0503,Daisy,Labrador Retriever,,Young,Large,Female,Jaipur,Rajasthan,Adopted,19-03-2025 13:18,20-03-2025 13:18
+DOG0504,Bella,German Shepherd,,Young,Large,Male,Delhi,Delhi,Adopted,07-11-2025 13:18,10-11-2025 13:18
+DOG0505,Buddy,Golden Retriever,,Puppy,Large,Male,Delhi,Delhi,Adopted,15-02-2025 13:18,15-02-2025 13:18
+DOG0506,Pepper,Beagle,,Young,Small,Male,Mumbai,Maharashtra,Adopted,22-04-2025 13:18,24-04-2025 13:18
+DOG0507,Rex,Labrador Retriever,,Puppy,Large,Male,Hyderabad,Telangana,Adopted,13-01-2026 13:18,14-01-2026 13:18
+DOG0508,Coco,Mixed Breed,,Puppy,Medium,Male,Jaipur,Rajasthan,Pending,07-06-2025 13:18,10-06-2025 13:18
+DOG0509,Buddy,Mixed Breed,Mixed,Puppy,Medium,Male,Chennai,Tamil Nadu,Available,23-11-2025 13:18,26-11-2025 13:18
+DOG0510,Charlie,Labrador Retriever,,Puppy,Large,Male,Ahmedabad,Gujarat,Adopted,11-05-2025 13:18,11-05-2025 13:18
+DOG0511,Brownie,Labrador Retriever,,Young,Large,Female,Chandigarh,Chandigarh,Adopted,17-03-2025 13:18,18-03-2025 13:18
+DOG0512,Charlie,Pug,,Puppy,Small,Female,Jaipur,Rajasthan,Adopted,22-10-2025 13:18,23-10-2025 13:18
+DOG0513,Leo,Siberian Husky,,Young,Large,Female,Mumbai,Maharashtra,Adopted,02-10-2025 13:18,02-10-2025 13:18
+DOG0514,Sheru,Indie Mix,Mixed,Puppy,Medium,Male,Bangalore,Karnataka,Adopted,23-07-2025 13:18,23-07-2025 13:18
+DOG0515,Duke,Shih Tzu,,Adult,Small,Male,Bangalore,Karnataka,Adopted,18-10-2025 13:18,21-10-2025 13:18
+DOG0516,Luna,Shih Tzu,,Young,Small,Female,Mumbai,Maharashtra,Adopted,07-09-2025 13:18,10-09-2025 13:18
+DOG0517,Jack,Beagle,,Young,Small,Female,Chandigarh,Chandigarh,Adopted,01-07-2025 13:18,01-07-2025 13:18
+DOG0518,Bella,Labrador Retriever,,Puppy,Large,Female,Mumbai,Maharashtra,Adopted,21-08-2025 13:18,24-08-2025 13:18
+DOG0519,Moti,German Shepherd,,Puppy,Large,Male,Kolkata,West Bengal,Adopted,31-10-2025 13:18,01-11-2025 13:18
+DOG0520,Bruno,Mixed Breed,Mixed,Young,Medium,Male,Delhi,Delhi,Available,28-05-2025 13:18,31-05-2025 13:18
+DOG0521,Shadow,Pug,,Puppy,Small,Female,Hyderabad,Telangana,Adopted,31-01-2025 13:18,01-02-2025 13:18
+DOG0522,Sadie,Labrador Retriever,,Young,Large,Male,Chandigarh,Chandigarh,Adopted,21-07-2025 13:18,23-07-2025 13:18
+DOG0523,Oscar,Labrador Retriever,,Puppy,Large,Female,Hyderabad,Telangana,Adopted,08-04-2025 13:18,08-04-2025 13:18
+DOG0524,Charlie,Indian Pariah Dog,,Puppy,Medium,Female,Delhi,Delhi,Adopted,29-09-2025 13:18,30-09-2025 13:18
+DOG0525,Charlie,Beagle,,Adult,Small,Female,Kolkata,West Bengal,Available,11-01-2026 13:18,13-01-2026 13:18
+DOG0526,Rocky,Labrador Retriever,,Young,Large,Male,Mumbai,Maharashtra,Available,20-04-2025 13:18,20-04-2025 13:18
+DOG0527,Charlie,Indian Pariah Dog,,Senior,Medium,Female,Kochi,Kerala,Pending,15-10-2025 13:18,18-10-2025 13:18
+DOG0528,Sadie,Shih Tzu,,Adult,Small,Female,Chennai,Tamil Nadu,Available,15-07-2025 13:18,18-07-2025 13:18
+DOG0529,Jack,Shih Tzu,,Young,Small,Female,Kolkata,West Bengal,Adopted,22-12-2025 13:18,23-12-2025 13:18
+DOG0530,Coco,Labrador Retriever,,Puppy,Large,Female,Pune,Maharashtra,Adopted,26-07-2025 13:18,27-07-2025 13:18
+DOG0531,Charlie,Pug,,Adult,Small,Male,Delhi,Delhi,Available,19-06-2025 13:18,20-06-2025 13:18
+DOG0532,Pepper,Indie Mix,Mixed,Young,Medium,Male,Chandigarh,Chandigarh,Adopted,14-06-2025 13:18,15-06-2025 13:18
+DOG0533,Leo,Indian Pariah Dog,,Adult,Medium,Male,Jaipur,Rajasthan,Available,16-07-2025 13:18,16-07-2025 13:18
+DOG0534,Zeus,Rottweiler,,Puppy,Large,Female,Mumbai,Maharashtra,Adopted,20-03-2025 13:18,22-03-2025 13:18
+DOG0535,Pepper,German Shepherd,,Young,Large,Female,Kochi,Kerala,Adopted,14-02-2025 13:18,16-02-2025 13:18
+DOG0536,Daisy,German Shepherd,,Puppy,Large,Female,Jaipur,Rajasthan,Available,06-07-2025 13:18,07-07-2025 13:18
+DOG0537,Jack,Indian Pariah Dog,,Puppy,Medium,Male,Ahmedabad,Gujarat,Adopted,03-10-2025 13:18,03-10-2025 13:18
+DOG0538,Moti,Indie Mix,Mixed,Adult,Medium,Female,Bangalore,Karnataka,Adopted,06-03-2025 13:18,06-03-2025 13:18
+DOG0539,Max,Indian Pariah Dog,,Young,Medium,Female,Chandigarh,Chandigarh,Pending,04-12-2025 13:18,05-12-2025 13:18
+DOG0540,Rocky,Siberian Husky,,Young,Large,Female,Delhi,Delhi,Adopted,07-12-2025 13:18,09-12-2025 13:18
+DOG0541,Bella,Labrador Retriever,,Adult,Large,Male,Bangalore,Karnataka,Adopted,11-09-2025 13:18,13-09-2025 13:18
+DOG0542,Sheru,Labrador Retriever,,Puppy,Large,Male,Hyderabad,Telangana,Adopted,27-03-2025 13:18,30-03-2025 13:18
+DOG0543,Charlie,Labrador Retriever,,Young,Large,Male,Mumbai,Maharashtra,Adopted,30-07-2025 13:18,31-07-2025 13:18
+DOG0544,Duke,Pug,,Puppy,Small,Male,Mumbai,Maharashtra,Available,13-03-2025 13:18,13-03-2025 13:18
+DOG0545,Coco,Shih Tzu,,Young,Small,Male,Jaipur,Rajasthan,Adopted,10-11-2025 13:18,12-11-2025 13:18
+DOG0546,Coco,Labrador Retriever,,Puppy,Large,Female,Ahmedabad,Gujarat,Available,01-07-2025 13:18,03-07-2025 13:18
+DOG0547,Bruno,German Shepherd,,Adult,Large,Male,Jaipur,Rajasthan,Available,17-06-2025 13:18,18-06-2025 13:18
+DOG0548,Brownie,Indian Pariah Dog,,Puppy,Medium,Female,Kochi,Kerala,Adopted,28-12-2025 13:18,28-12-2025 13:18
+DOG0549,Tiger,Indian Pariah Dog,,Young,Medium,Female,Delhi,Delhi,Adopted,10-08-2025 13:18,12-08-2025 13:18
+DOG0550,Buddy,Indian Pariah Dog,,Puppy,Medium,Female,Mumbai,Maharashtra,Available,28-01-2025 13:18,31-01-2025 13:18
+DOG0551,Daisy,Indian Pariah Dog,,Puppy,Medium,Female,Lucknow,Uttar Pradesh,Available,02-12-2025 13:18,03-12-2025 13:18
+DOG0552,Buddy,Siberian Husky,,Young,Large,Female,Hyderabad,Telangana,Available,25-10-2025 13:18,27-10-2025 13:18
+DOG0553,Max,Mixed Breed,Mixed,Young,Medium,Female,Mumbai,Maharashtra,Pending,20-01-2026 13:18,20-01-2026 13:18
+DOG0554,Luna,Labrador Retriever,,Adult,Large,Male,Jaipur,Rajasthan,Pending,21-08-2025 13:18,24-08-2025 13:18
+DOG0555,Brownie,Mixed Breed,Mixed,Adult,Medium,Female,Delhi,Delhi,Pending,09-12-2025 13:18,10-12-2025 13:18
+DOG0556,Leo,Rottweiler,,Young,Large,Female,Bangalore,Karnataka,Adopted,08-01-2026 13:18,08-01-2026 13:18
+DOG0557,Oreo,Indian Pariah Dog,,Puppy,Medium,Male,Lucknow,Uttar Pradesh,Available,22-06-2025 13:18,24-06-2025 13:18
+DOG0558,Buddy,Beagle,,Young,Small,Female,Delhi,Delhi,Adopted,04-01-2026 13:18,04-01-2026 13:18
+DOG0559,Max,Beagle,,Puppy,Small,Male,Chandigarh,Chandigarh,Available,12-12-2025 13:18,13-12-2025 13:18
+DOG0560,Oscar,Labrador Retriever,,Young,Large,Female,Mumbai,Maharashtra,Adopted,21-08-2025 13:18,22-08-2025 13:18
+DOG0561,Leo,Siberian Husky,,Puppy,Large,Female,Jaipur,Rajasthan,Available,24-03-2025 13:18,27-03-2025 13:18
+DOG0562,Daisy,Mixed Breed,Mixed,Young,Medium,Male,Hyderabad,Telangana,Available,29-04-2025 13:18,29-04-2025 13:18
+DOG0563,Bruno,Indian Pariah Dog,,Young,Medium,Female,Delhi,Delhi,Adopted,05-12-2025 13:18,08-12-2025 13:18
+DOG0564,Max,Labrador Retriever,,Puppy,Large,Male,Bangalore,Karnataka,Adopted,17-10-2025 13:18,17-10-2025 13:18
+DOG0565,Daisy,German Shepherd,,Puppy,Large,Female,Bangalore,Karnataka,Adopted,29-07-2025 13:18,31-07-2025 13:18
+DOG0566,Bruno,Mixed Breed,Mixed,Puppy,Medium,Male,Bangalore,Karnataka,Adopted,02-02-2025 13:18,02-02-2025 13:18
+DOG0567,Charlie,Golden Retriever,,Puppy,Large,Female,Delhi,Delhi,Adopted,31-07-2025 13:18,31-07-2025 13:18
+DOG0568,Shadow,Pug,,Puppy,Small,Female,Mumbai,Maharashtra,Available,07-09-2025 13:18,08-09-2025 13:18
+DOG0569,Charlie,Mixed Breed,Mixed,Young,Medium,Male,Bangalore,Karnataka,Adopted,18-11-2025 13:18,21-11-2025 13:18
+DOG0570,Cooper,Mixed Breed,Mixed,Young,Medium,Female,Pune,Maharashtra,Adopted,12-12-2025 13:18,15-12-2025 13:18
+DOG0571,Rocky,Golden Retriever,,Young,Large,Female,Bangalore,Karnataka,Pending,11-12-2025 13:18,12-12-2025 13:18
+DOG0572,Brownie,Indian Pariah Dog,,Adult,Medium,Male,Ahmedabad,Gujarat,Adopted,03-05-2025 13:18,04-05-2025 13:18
+DOG0573,Simba,Rottweiler,,Adult,Large,Male,Kochi,Kerala,Adopted,21-11-2025 13:18,23-11-2025 13:18
+DOG0574,Jack,German Shepherd,,Adult,Large,Female,Hyderabad,Telangana,Adopted,06-02-2025 13:18,07-02-2025 13:18
+DOG0575,Lucy,Beagle,,Adult,Small,Female,Hyderabad,Telangana,Available,14-05-2025 13:18,14-05-2025 13:18
+DOG0576,Simba,Shih Tzu,,Young,Small,Female,Bangalore,Karnataka,Pending,18-01-2026 13:18,21-01-2026 13:18
+DOG0577,Tiger,Siberian Husky,,Puppy,Large,Female,Pune,Maharashtra,Pending,25-11-2025 13:18,26-11-2025 13:18
+DOG0578,Simba,Indian Pariah Dog,,Puppy,Medium,Female,Chandigarh,Chandigarh,Adopted,23-05-2025 13:18,24-05-2025 13:18
+DOG0579,Moti,Indian Pariah Dog,,Young,Medium,Female,Chennai,Tamil Nadu,Pending,07-08-2025 13:18,10-08-2025 13:18
+DOG0580,Cooper,Labrador Retriever,,Adult,Large,Male,Lucknow,Uttar Pradesh,Adopted,10-08-2025 13:18,10-08-2025 13:18
+DOG0581,Zeus,Indie Mix,Mixed,Young,Medium,Female,Mumbai,Maharashtra,Adopted,22-07-2025 13:18,24-07-2025 13:18
+DOG0582,Molly,Mixed Breed,Mixed,Young,Medium,Male,Kolkata,West Bengal,Adopted,04-03-2025 13:18,04-03-2025 13:18
+DOG0583,Pepper,Golden Retriever,,Puppy,Large,Female,Delhi,Delhi,Adopted,09-07-2025 13:18,11-07-2025 13:18
+DOG0584,Molly,Siberian Husky,,Young,Large,Female,Kochi,Kerala,Available,23-12-2025 13:18,25-12-2025 13:18
+DOG0585,Oreo,Rottweiler,,Puppy,Large,Male,Pune,Maharashtra,Available,09-05-2025 13:18,10-05-2025 13:18
+DOG0586,Oreo,Pug,,Puppy,Small,Male,Chennai,Tamil Nadu,Adopted,14-11-2025 13:18,16-11-2025 13:18
+DOG0587,Brownie,Indian Pariah Dog,,Puppy,Medium,Male,Lucknow,Uttar Pradesh,Available,16-12-2025 13:18,18-12-2025 13:18
+DOG0588,Coco,Indie Mix,Mixed,Puppy,Medium,Male,Kolkata,West Bengal,Adopted,12-05-2025 13:18,15-05-2025 13:18
+DOG0589,Duke,Beagle,,Adult,Small,Female,Chennai,Tamil Nadu,Adopted,08-05-2025 13:18,11-05-2025 13:18
+DOG0590,Zeus,German Shepherd,,Puppy,Large,Female,Lucknow,Uttar Pradesh,Adopted,24-10-2025 13:18,24-10-2025 13:18
+DOG0591,Max,German Shepherd,,Young,Large,Female,Delhi,Delhi,Adopted,01-11-2025 13:18,03-11-2025 13:18
+DOG0592,Shadow,Mixed Breed,Mixed,Adult,Medium,Male,Mumbai,Maharashtra,Adopted,28-06-2025 13:18,29-06-2025 13:18
+DOG0593,Luna,Golden Retriever,,Puppy,Large,Female,Delhi,Delhi,Pending,30-06-2025 13:18,30-06-2025 13:18
+DOG0594,Oreo,German Shepherd,,Adult,Large,Female,Pune,Maharashtra,Pending,03-12-2025 13:18,06-12-2025 13:18
+DOG0595,Tiger,Labrador Retriever,,Puppy,Large,Male,Mumbai,Maharashtra,Available,25-04-2025 13:18,26-04-2025 13:18
+DOG0596,Buddy,Golden Retriever,,Young,Large,Male,Mumbai,Maharashtra,Adopted,19-03-2025 13:18,20-03-2025 13:18
+DOG0597,Oscar,Indian Pariah Dog,,Young,Medium,Male,Delhi,Delhi,Adopted,15-01-2026 13:18,18-01-2026 13:18
+DOG0598,Rex,Labrador Retriever,,Young,Large,Female,Mumbai,Maharashtra,Adopted,27-01-2025 13:18,29-01-2025 13:18
+DOG0599,Sadie,Labrador Retriever,,Puppy,Large,Female,Mumbai,Maharashtra,Available,13-08-2025 13:18,13-08-2025 13:18
+DOG0600,Cooper,Golden Retriever,,Adult,Large,Male,Bangalore,Karnataka,Adopted,19-07-2025 13:18,22-07-2025 13:18

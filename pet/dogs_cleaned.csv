@@ -1,0 +1,601 @@
+dog_id,breed,age_group,size,gender,city,state,days_listed,status
+DOG0001,Indian Pariah Dog,Senior,Medium,Male,Pune,Maharashtra,164,Adopted
+DOG0002,Labrador Retriever,Young,Large,Female,Delhi,Delhi,115,Available
+DOG0003,Indian Pariah Dog,Young,Medium,Male,Lucknow,Uttar Pradesh,81,Available
+DOG0004,Beagle,Young,Small,Female,Jaipur,Rajasthan,322,Adopted
+DOG0005,Indian Pariah Dog,Adult,Medium,Male,Hyderabad,Telangana,243,Adopted
+DOG0006,Mixed Breed,Young,Medium,Male,Chennai,Tamil Nadu,99,Pending
+DOG0007,Rottweiler,Young,Large,Male,Mumbai,Maharashtra,155,Available
+DOG0008,Labrador Retriever,Puppy,Large,Female,Bangalore,Karnataka,156,Adopted
+DOG0009,Mixed Breed,Adult,Medium,Male,Hyderabad,Telangana,19,Available
+DOG0010,Mixed Breed,Young,Medium,Female,Chennai,Tamil Nadu,15,Available
+DOG0011,Golden Retriever,Adult,Large,Female,Ahmedabad,Gujarat,132,Adopted
+DOG0012,Golden Retriever,Puppy,Large,Male,Jaipur,Rajasthan,160,Adopted
+DOG0013,Rottweiler,Puppy,Large,Female,Delhi,Delhi,329,Adopted
+DOG0014,Rottweiler,Adult,Large,Female,Kochi,Kerala,334,Adopted
+DOG0015,Labrador Retriever,Adult,Large,Male,Chandigarh,Chandigarh,342,Adopted
+DOG0016,Pug,Puppy,Small,Female,Delhi,Delhi,337,Adopted
+DOG0017,Labrador Retriever,Young,Large,Female,Jaipur,Rajasthan,166,Available
+DOG0018,Indian Pariah Dog,Adult,Medium,Male,Pune,Maharashtra,271,Adopted
+DOG0019,Labrador Retriever,Adult,Large,Female,Mumbai,Maharashtra,165,Adopted
+DOG0020,Labrador Retriever,Adult,Large,Male,Mumbai,Maharashtra,134,Adopted
+DOG0021,Shih Tzu,Puppy,Small,Male,Pune,Maharashtra,359,Adopted
+DOG0022,Beagle,Adult,Small,Male,Bangalore,Karnataka,283,Adopted
+DOG0023,Labrador Retriever,Puppy,Large,Male,Bangalore,Karnataka,34,Adopted
+DOG0024,Golden Retriever,Puppy,Large,Male,Ahmedabad,Gujarat,55,Adopted
+DOG0025,German Shepherd,Puppy,Large,Male,Delhi,Delhi,339,Adopted
+DOG0026,Indian Pariah Dog,Young,Medium,Female,Mumbai,Maharashtra,348,Available
+DOG0027,Beagle,Puppy,Small,Female,Ahmedabad,Gujarat,184,Available
+DOG0028,Shih Tzu,Adult,Small,Female,Lucknow,Uttar Pradesh,59,Pending
+DOG0029,Golden Retriever,Puppy,Large,Male,Hyderabad,Telangana,365,Adopted
+DOG0030,Labrador Retriever,Puppy,Large,Female,Delhi,Delhi,21,Adopted
+DOG0031,Indian Pariah Dog,Puppy,Medium,Male,Mumbai,Maharashtra,51,Pending
+DOG0032,Indian Pariah Dog,Young,Medium,Male,Kolkata,West Bengal,72,Available
+DOG0033,Mixed Breed,Puppy,Medium,Female,Chandigarh,Chandigarh,347,Adopted
+DOG0034,Pug,Puppy,Small,Female,Mumbai,Maharashtra,287,Available
+DOG0035,Labrador Retriever,Senior,Large,Male,Kolkata,West Bengal,100,Available
+DOG0036,Golden Retriever,Puppy,Large,Female,Kolkata,West Bengal,339,Available
+DOG0037,Labrador Retriever,Puppy,Large,Male,Chennai,Tamil Nadu,104,Adopted
+DOG0038,Golden Retriever,Adult,Large,Male,Pune,Maharashtra,133,Adopted
+DOG0039,Labrador Retriever,Young,Large,Female,Kolkata,West Bengal,222,Available
+DOG0040,Beagle,Young,Small,Female,Chennai,Tamil Nadu,125,Available
+DOG0041,Indian Pariah Dog,Young,Medium,Male,Bangalore,Karnataka,73,Available
+DOG0042,Mixed Breed,Young,Medium,Female,Delhi,Delhi,133,Pending
+DOG0043,Golden Retriever,Young,Large,Male,Mumbai,Maharashtra,3,Adopted
+DOG0044,Indian Pariah Dog Mix,Young,Medium,Male,Delhi,Delhi,149,Adopted
+DOG0045,Labrador Retriever,Puppy,Large,Female,Hyderabad,Telangana,93,Adopted
+DOG0046,Indian Pariah Dog,Puppy,Medium,Male,Hyderabad,Telangana,39,Available
+DOG0047,Pug,Adult,Small,Female,Hyderabad,Telangana,93,Adopted
+DOG0048,German Shepherd,Senior,Large,Female,Delhi,Delhi,128,Pending
+DOG0049,Mixed Breed,Young,Medium,Female,Chennai,Tamil Nadu,152,Adopted
+DOG0050,Golden Retriever,Puppy,Large,Male,Delhi,Delhi,290,Available
+DOG0051,Indian Pariah Dog,Adult,Medium,Female,Pune,Maharashtra,348,Adopted
+DOG0052,German Shepherd,Young,Large,Female,Pune,Maharashtra,78,Available
+DOG0053,German Shepherd,Puppy,Large,Male,Pune,Maharashtra,148,Adopted
+DOG0054,German Shepherd,Adult,Large,Female,Chennai,Tamil Nadu,288,Pending
+DOG0055,Labrador Retriever,Young,Large,Female,Pune,Maharashtra,287,Available
+DOG0056,Indian Pariah Dog,Young,Medium,Female,Ahmedabad,Gujarat,62,Pending
+DOG0057,Labrador Retriever,Puppy,Large,Female,Bangalore,Karnataka,60,Adopted
+DOG0058,Indian Pariah Dog Mix,Puppy,Medium,Female,Jaipur,Rajasthan,130,Adopted
+DOG0059,Beagle,Young,Small,Male,Kolkata,West Bengal,294,Adopted
+DOG0060,Shih Tzu,Puppy,Small,Female,Ahmedabad,Gujarat,172,Available
+DOG0061,Labrador Retriever,Young,Large,Male,Lucknow,Uttar Pradesh,287,Adopted
+DOG0062,Mixed Breed,Young,Medium,Male,Hyderabad,Telangana,35,Pending
+DOG0063,Pug,Young,Small,Male,Chennai,Tamil Nadu,3,Adopted
+DOG0064,Indian Pariah Dog,Puppy,Medium,Male,Mumbai,Maharashtra,177,Pending
+DOG0065,Indian Pariah Dog,Adult,Medium,Male,Delhi,Delhi,244,Available
+DOG0066,German Shepherd,Puppy,Large,Female,Ahmedabad,Gujarat,222,Available
+DOG0067,Golden Retriever,Puppy,Large,Female,Pune,Maharashtra,352,Adopted
+DOG0068,Golden Retriever,Puppy,Large,Female,Jaipur,Rajasthan,34,Available
+DOG0069,German Shepherd,Puppy,Large,Female,Lucknow,Uttar Pradesh,274,Adopted
+DOG0070,Golden Retriever,Puppy,Large,Male,Bangalore,Karnataka,45,Adopted
+DOG0071,Mixed Breed,Puppy,Medium,Male,Bangalore,Karnataka,45,Pending
+DOG0072,Siberian Husky,Young,Large,Male,Chennai,Tamil Nadu,109,Available
+DOG0073,Indian Pariah Dog,Adult,Medium,Female,Mumbai,Maharashtra,6,Available
+DOG0074,Labrador Retriever,Senior,Large,Female,Delhi,Delhi,6,Available
+DOG0075,Indian Pariah Dog,Puppy,Medium,Male,Kolkata,West Bengal,39,Adopted
+DOG0076,Siberian Husky,Young,Large,Female,Delhi,Delhi,263,Adopted
+DOG0077,Indian Pariah Dog,Young,Medium,Male,Chandigarh,Chandigarh,32,Adopted
+DOG0078,Indian Pariah Dog Mix,Puppy,Medium,Male,Chennai,Tamil Nadu,70,Adopted
+DOG0079,Golden Retriever,Young,Large,Female,Ahmedabad,Gujarat,252,Available
+DOG0080,Labrador Retriever,Puppy,Large,Male,Mumbai,Maharashtra,143,Available
+DOG0081,Labrador Retriever,Puppy,Large,Male,Delhi,Delhi,98,Available
+DOG0082,Golden Retriever,Young,Large,Male,Hyderabad,Telangana,121,Available
+DOG0083,Mixed Breed,Puppy,Medium,Female,Chennai,Tamil Nadu,74,Available
+DOG0084,Labrador Retriever,Puppy,Large,Female,Kolkata,West Bengal,138,Adopted
+DOG0085,German Shepherd,Puppy,Large,Female,Bangalore,Karnataka,68,Adopted
+DOG0086,Indian Pariah Dog,Young,Medium,Female,Chandigarh,Chandigarh,133,Available
+DOG0087,Mixed Breed,Young,Medium,Female,Delhi,Delhi,165,Adopted
+DOG0088,Labrador Retriever,Puppy,Large,Male,Chennai,Tamil Nadu,354,Available
+DOG0089,Mixed Breed,Adult,Medium,Male,Ahmedabad,Gujarat,204,Adopted
+DOG0090,Indian Pariah Dog,Adult,Medium,Male,Jaipur,Rajasthan,54,Adopted
+DOG0091,Golden Retriever,Young,Large,Male,Chandigarh,Chandigarh,327,Adopted
+DOG0092,Siberian Husky,Young,Large,Female,Mumbai,Maharashtra,333,Available
+DOG0093,Mixed Breed,Adult,Medium,Male,Bangalore,Karnataka,117,Available
+DOG0094,Siberian Husky,Puppy,Large,Female,Delhi,Delhi,315,Adopted
+DOG0095,German Shepherd,Young,Large,Male,Mumbai,Maharashtra,222,Adopted
+DOG0096,Mixed Breed,Young,Medium,Female,Delhi,Delhi,307,Adopted
+DOG0097,Pug,Puppy,Small,Male,Ahmedabad,Gujarat,349,Adopted
+DOG0098,Beagle,Young,Small,Female,Jaipur,Rajasthan,319,Adopted
+DOG0099,Mixed Breed,Young,Medium,Female,Chennai,Tamil Nadu,68,Adopted
+DOG0100,Indian Pariah Dog,Puppy,Medium,Female,Hyderabad,Telangana,34,Adopted
+DOG0101,Indian Pariah Dog,Young,Medium,Female,Bangalore,Karnataka,298,Available
+DOG0102,German Shepherd,Puppy,Large,Male,Bangalore,Karnataka,315,Adopted
+DOG0103,German Shepherd,Adult,Large,Female,Ahmedabad,Gujarat,86,Adopted
+DOG0104,Rottweiler,Young,Large,Female,Mumbai,Maharashtra,98,Available
+DOG0105,Beagle,Young,Small,Female,Hyderabad,Telangana,166,Available
+DOG0106,Labrador Retriever,Puppy,Large,Female,Delhi,Delhi,357,Available
+DOG0107,Labrador Retriever,Young,Large,Male,Kolkata,West Bengal,264,Available
+DOG0108,Golden Retriever,Young,Large,Male,Kolkata,West Bengal,15,Available
+DOG0109,Golden Retriever,Young,Large,Female,Pune,Maharashtra,208,Adopted
+DOG0110,Indian Pariah Dog,Young,Medium,Female,Lucknow,Uttar Pradesh,58,Available
+DOG0111,Indian Pariah Dog,Young,Medium,Female,Delhi,Delhi,340,Adopted
+DOG0112,Indian Pariah Dog Mix,Puppy,Medium,Female,Mumbai,Maharashtra,307,Adopted
+DOG0113,Golden Retriever,Adult,Large,Male,Kolkata,West Bengal,288,Adopted
+DOG0114,Labrador Retriever,Puppy,Large,Female,Chennai,Tamil Nadu,73,Pending
+DOG0115,Beagle,Adult,Small,Female,Jaipur,Rajasthan,209,Adopted
+DOG0116,Indian Pariah Dog,Young,Medium,Female,Mumbai,Maharashtra,194,Adopted
+DOG0117,Golden Retriever,Puppy,Large,Female,Delhi,Delhi,23,Available
+DOG0118,Indian Pariah Dog,Puppy,Medium,Male,Ahmedabad,Gujarat,187,Adopted
+DOG0119,Shih Tzu,Puppy,Small,Male,Bangalore,Karnataka,349,Adopted
+DOG0120,Labrador Retriever,Young,Large,Male,Jaipur,Rajasthan,44,Available
+DOG0121,Mixed Breed,Puppy,Medium,Male,Hyderabad,Telangana,279,Adopted
+DOG0122,Indian Pariah Dog,Puppy,Medium,Male,Mumbai,Maharashtra,350,Adopted
+DOG0123,Labrador Retriever,Young,Large,Female,Pune,Maharashtra,50,Adopted
+DOG0124,Pug,Young,Small,Male,Chennai,Tamil Nadu,355,Adopted
+DOG0125,Indian Pariah Dog Mix,Young,Medium,Female,Delhi,Delhi,16,Adopted
+DOG0126,Beagle,Young,Small,Male,Hyderabad,Telangana,58,Available
+DOG0127,German Shepherd,Puppy,Large,Male,Kolkata,West Bengal,248,Available
+DOG0128,Indian Pariah Dog,Young,Medium,Female,Hyderabad,Telangana,353,Adopted
+DOG0129,German Shepherd,Young,Large,Male,Mumbai,Maharashtra,80,Adopted
+DOG0130,Indian Pariah Dog,Adult,Medium,Female,Mumbai,Maharashtra,307,Adopted
+DOG0131,Beagle,Young,Small,Male,Pune,Maharashtra,65,Available
+DOG0132,Beagle,Puppy,Small,Female,Chennai,Tamil Nadu,224,Adopted
+DOG0133,Mixed Breed,Puppy,Medium,Male,Bangalore,Karnataka,345,Adopted
+DOG0134,Labrador Retriever,Puppy,Large,Male,Lucknow,Uttar Pradesh,222,Pending
+DOG0135,German Shepherd,Adult,Large,Male,Bangalore,Karnataka,267,Adopted
+DOG0136,German Shepherd,Young,Large,Female,Mumbai,Maharashtra,156,Adopted
+DOG0137,Labrador Retriever,Adult,Large,Female,Hyderabad,Telangana,299,Available
+DOG0138,Golden Retriever,Adult,Large,Female,Bangalore,Karnataka,60,Available
+DOG0139,German Shepherd,Adult,Large,Female,Mumbai,Maharashtra,344,Adopted
+DOG0140,German Shepherd,Young,Large,Female,Mumbai,Maharashtra,180,Adopted
+DOG0141,Mixed Breed,Adult,Medium,Male,Ahmedabad,Gujarat,112,Pending
+DOG0142,Golden Retriever,Young,Large,Female,Ahmedabad,Gujarat,66,Adopted
+DOG0143,Labrador Retriever,Adult,Large,Male,Pune,Maharashtra,364,Adopted
+DOG0144,Indian Pariah Dog,Young,Medium,Male,Delhi,Delhi,49,Available
+DOG0145,Labrador Retriever,Puppy,Large,Male,Hyderabad,Telangana,200,Adopted
+DOG0146,Indian Pariah Dog,Puppy,Medium,Male,Jaipur,Rajasthan,196,Adopted
+DOG0147,Indian Pariah Dog,Puppy,Medium,Male,Chennai,Tamil Nadu,101,Available
+DOG0148,Golden Retriever,Puppy,Large,Female,Chennai,Tamil Nadu,318,Adopted
+DOG0149,Indian Pariah Dog,Adult,Medium,Female,Mumbai,Maharashtra,203,Available
+DOG0150,Beagle,Puppy,Small,Female,Bangalore,Karnataka,210,Available
+DOG0151,Indian Pariah Dog,Puppy,Medium,Male,Chennai,Tamil Nadu,161,Adopted
+DOG0152,Beagle,Senior,Small,Male,Chennai,Tamil Nadu,198,Adopted
+DOG0153,Rottweiler,Young,Large,Female,Hyderabad,Telangana,95,Available
+DOG0154,Rottweiler,Young,Large,Male,Kolkata,West Bengal,244,Pending
+DOG0155,Labrador Retriever,Puppy,Large,Male,Mumbai,Maharashtra,96,Pending
+DOG0156,Pug,Puppy,Small,Male,Chennai,Tamil Nadu,273,Available
+DOG0157,Golden Retriever,Puppy,Large,Female,Delhi,Delhi,353,Adopted
+DOG0158,Mixed Breed,Puppy,Medium,Female,Bangalore,Karnataka,298,Adopted
+DOG0159,German Shepherd,Young,Large,Female,Chennai,Tamil Nadu,189,Adopted
+DOG0160,Labrador Retriever,Young,Large,Female,Mumbai,Maharashtra,217,Available
+DOG0161,Indian Pariah Dog,Senior,Medium,Female,Mumbai,Maharashtra,130,Adopted
+DOG0162,Shih Tzu,Young,Small,Female,Chennai,Tamil Nadu,162,Adopted
+DOG0163,Golden Retriever,Puppy,Large,Female,Lucknow,Uttar Pradesh,226,Adopted
+DOG0164,Labrador Retriever,Puppy,Large,Male,Pune,Maharashtra,257,Adopted
+DOG0165,Indian Pariah Dog Mix,Young,Medium,Male,Pune,Maharashtra,262,Adopted
+DOG0166,Indian Pariah Dog,Puppy,Medium,Male,Mumbai,Maharashtra,123,Available
+DOG0167,Indian Pariah Dog,Adult,Medium,Female,Mumbai,Maharashtra,249,Adopted
+DOG0168,Golden Retriever,Young,Large,Male,Lucknow,Uttar Pradesh,309,Adopted
+DOG0169,Labrador Retriever,Adult,Large,Female,Mumbai,Maharashtra,300,Adopted
+DOG0170,Shih Tzu,Senior,Small,Female,Delhi,Delhi,351,Available
+DOG0171,Indian Pariah Dog,Young,Medium,Male,Kolkata,West Bengal,38,Adopted
+DOG0172,German Shepherd,Young,Large,Female,Hyderabad,Telangana,111,Available
+DOG0173,Labrador Retriever,Young,Large,Female,Chandigarh,Chandigarh,266,Adopted
+DOG0174,Indian Pariah Dog Mix,Young,Medium,Male,Bangalore,Karnataka,33,Pending
+DOG0175,Labrador Retriever,Adult,Large,Male,Mumbai,Maharashtra,106,Available
+DOG0176,Mixed Breed,Puppy,Medium,Female,Hyderabad,Telangana,64,Adopted
+DOG0177,Labrador Retriever,Young,Large,Female,Kochi,Kerala,203,Adopted
+DOG0178,German Shepherd,Young,Large,Male,Ahmedabad,Gujarat,308,Adopted
+DOG0179,Golden Retriever,Puppy,Large,Male,Pune,Maharashtra,243,Adopted
+DOG0180,Indian Pariah Dog Mix,Adult,Medium,Female,Mumbai,Maharashtra,36,Available
+DOG0181,Mixed Breed,Young,Medium,Male,Chandigarh,Chandigarh,214,Adopted
+DOG0182,Labrador Retriever,Young,Large,Female,Chennai,Tamil Nadu,352,Available
+DOG0183,Pug,Puppy,Small,Male,Lucknow,Uttar Pradesh,172,Pending
+DOG0184,Shih Tzu,Young,Small,Male,Hyderabad,Telangana,198,Available
+DOG0185,Indian Pariah Dog,Young,Medium,Male,Chandigarh,Chandigarh,8,Adopted
+DOG0186,Pug,Young,Small,Male,Mumbai,Maharashtra,166,Adopted
+DOG0187,German Shepherd,Young,Large,Male,Bangalore,Karnataka,131,Adopted
+DOG0188,Indian Pariah Dog,Young,Medium,Female,Kochi,Kerala,103,Available
+DOG0189,Rottweiler,Young,Large,Female,Hyderabad,Telangana,102,Adopted
+DOG0190,German Shepherd,Young,Large,Female,Bangalore,Karnataka,172,Available
+DOG0191,Mixed Breed,Young,Medium,Female,Hyderabad,Telangana,86,Adopted
+DOG0192,Indian Pariah Dog,Adult,Medium,Female,Kolkata,West Bengal,153,Available
+DOG0193,Indian Pariah Dog,Young,Medium,Male,Bangalore,Karnataka,214,Adopted
+DOG0194,Siberian Husky,Young,Large,Female,Jaipur,Rajasthan,240,Available
+DOG0195,Mixed Breed,Puppy,Medium,Female,Hyderabad,Telangana,169,Adopted
+DOG0196,Shih Tzu,Adult,Small,Male,Bangalore,Karnataka,179,Adopted
+DOG0197,Indian Pariah Dog,Puppy,Medium,Male,Bangalore,Karnataka,163,Adopted
+DOG0198,Labrador Retriever,Young,Large,Male,Chandigarh,Chandigarh,11,Available
+DOG0199,Labrador Retriever,Puppy,Large,Female,Kolkata,West Bengal,8,Adopted
+DOG0200,Beagle,Young,Small,Female,Delhi,Delhi,49,Adopted
+DOG0201,Golden Retriever,Young,Large,Female,Bangalore,Karnataka,82,Adopted
+DOG0202,Indian Pariah Dog,Puppy,Medium,Female,Hyderabad,Telangana,267,Adopted
+DOG0203,Mixed Breed,Puppy,Medium,Male,Mumbai,Maharashtra,363,Available
+DOG0204,Labrador Retriever,Puppy,Large,Female,Kolkata,West Bengal,155,Adopted
+DOG0205,Pug,Puppy,Small,Female,Chennai,Tamil Nadu,357,Adopted
+DOG0206,Labrador Retriever,Puppy,Large,Female,Delhi,Delhi,103,Pending
+DOG0207,Beagle,Puppy,Small,Male,Delhi,Delhi,230,Adopted
+DOG0208,Labrador Retriever,Young,Large,Male,Chennai,Tamil Nadu,187,Adopted
+DOG0209,Labrador Retriever,Adult,Large,Male,Kolkata,West Bengal,109,Adopted
+DOG0210,Labrador Retriever,Puppy,Large,Female,Bangalore,Karnataka,162,Adopted
+DOG0211,Golden Retriever,Young,Large,Male,Jaipur,Rajasthan,55,Adopted
+DOG0212,German Shepherd,Young,Large,Female,Mumbai,Maharashtra,89,Pending
+DOG0213,Labrador Retriever,Adult,Large,Male,Chandigarh,Chandigarh,364,Pending
+DOG0214,Siberian Husky,Puppy,Large,Female,Kolkata,West Bengal,257,Adopted
+DOG0215,Labrador Retriever,Puppy,Large,Male,Hyderabad,Telangana,242,Adopted
+DOG0216,Mixed Breed,Young,Medium,Female,Hyderabad,Telangana,123,Available
+DOG0217,Golden Retriever,Young,Large,Female,Hyderabad,Telangana,279,Available
+DOG0218,Pug,Puppy,Small,Female,Lucknow,Uttar Pradesh,154,Adopted
+DOG0219,Mixed Breed,Puppy,Medium,Female,Ahmedabad,Gujarat,195,Available
+DOG0220,Mixed Breed,Puppy,Medium,Female,Mumbai,Maharashtra,234,Available
+DOG0221,German Shepherd,Puppy,Large,Female,Kolkata,West Bengal,123,Available
+DOG0222,Indian Pariah Dog,Puppy,Medium,Male,Chandigarh,Chandigarh,250,Adopted
+DOG0223,Indian Pariah Dog,Puppy,Medium,Male,Jaipur,Rajasthan,331,Adopted
+DOG0224,German Shepherd,Puppy,Large,Female,Pune,Maharashtra,81,Adopted
+DOG0225,Indian Pariah Dog Mix,Adult,Medium,Female,Pune,Maharashtra,180,Available
+DOG0226,Golden Retriever,Puppy,Large,Female,Pune,Maharashtra,347,Adopted
+DOG0227,German Shepherd,Puppy,Large,Male,Mumbai,Maharashtra,138,Adopted
+DOG0228,German Shepherd,Young,Large,Female,Kolkata,West Bengal,51,Available
+DOG0229,Shih Tzu,Young,Small,Female,Delhi,Delhi,187,Available
+DOG0230,Labrador Retriever,Young,Large,Female,Jaipur,Rajasthan,186,Adopted
+DOG0231,Indian Pariah Dog,Puppy,Medium,Male,Delhi,Delhi,113,Available
+DOG0232,German Shepherd,Adult,Large,Female,Lucknow,Uttar Pradesh,340,Adopted
+DOG0233,Mixed Breed,Puppy,Medium,Female,Kolkata,West Bengal,52,Pending
+DOG0234,Labrador Retriever,Puppy,Large,Male,Delhi,Delhi,153,Adopted
+DOG0235,German Shepherd,Puppy,Large,Male,Hyderabad,Telangana,344,Available
+DOG0236,Shih Tzu,Young,Small,Male,Mumbai,Maharashtra,121,Adopted
+DOG0237,Labrador Retriever,Puppy,Large,Female,Kolkata,West Bengal,365,Adopted
+DOG0238,Mixed Breed,Young,Medium,Female,Lucknow,Uttar Pradesh,171,Pending
+DOG0239,Mixed Breed,Young,Medium,Male,Lucknow,Uttar Pradesh,143,Adopted
+DOG0240,Indian Pariah Dog Mix,Young,Medium,Male,Delhi,Delhi,321,Adopted
+DOG0241,Labrador Retriever,Puppy,Large,Female,Chennai,Tamil Nadu,306,Adopted
+DOG0242,Indian Pariah Dog,Puppy,Medium,Female,Mumbai,Maharashtra,321,Available
+DOG0243,Mixed Breed,Adult,Medium,Male,Ahmedabad,Gujarat,211,Pending
+DOG0244,Shih Tzu,Young,Small,Female,Bangalore,Karnataka,110,Adopted
+DOG0245,Labrador Retriever,Young,Large,Male,Mumbai,Maharashtra,67,Available
+DOG0246,Beagle,Puppy,Small,Male,Chandigarh,Chandigarh,307,Adopted
+DOG0247,Golden Retriever,Puppy,Large,Male,Mumbai,Maharashtra,307,Adopted
+DOG0248,Pug,Puppy,Small,Female,Jaipur,Rajasthan,251,Adopted
+DOG0249,Beagle,Young,Small,Female,Chennai,Tamil Nadu,321,Available
+DOG0250,Indian Pariah Dog Mix,Young,Medium,Male,Mumbai,Maharashtra,158,Adopted
+DOG0251,Golden Retriever,Puppy,Large,Female,Kochi,Kerala,172,Adopted
+DOG0252,Golden Retriever,Puppy,Large,Male,Lucknow,Uttar Pradesh,38,Adopted
+DOG0253,Indian Pariah Dog,Puppy,Medium,Female,Pune,Maharashtra,266,Pending
+DOG0254,Mixed Breed,Young,Medium,Male,Jaipur,Rajasthan,229,Adopted
+DOG0255,Beagle,Young,Small,Female,Chandigarh,Chandigarh,166,Adopted
+DOG0256,Indian Pariah Dog,Puppy,Medium,Female,Bangalore,Karnataka,135,Available
+DOG0257,Labrador Retriever,Young,Large,Female,Delhi,Delhi,259,Pending
+DOG0258,Labrador Retriever,Puppy,Large,Female,Bangalore,Karnataka,117,Available
+DOG0259,Indian Pariah Dog,Puppy,Medium,Female,Kolkata,West Bengal,303,Pending
+DOG0260,Labrador Retriever,Young,Large,Male,Kolkata,West Bengal,15,Adopted
+DOG0261,German Shepherd,Young,Large,Female,Bangalore,Karnataka,351,Adopted
+DOG0262,Pug,Puppy,Small,Male,Bangalore,Karnataka,280,Adopted
+DOG0263,Labrador Retriever,Senior,Large,Female,Mumbai,Maharashtra,136,Pending
+DOG0264,Labrador Retriever,Young,Large,Male,Chandigarh,Chandigarh,207,Available
+DOG0265,Indian Pariah Dog,Puppy,Medium,Male,Hyderabad,Telangana,250,Adopted
+DOG0266,Golden Retriever,Young,Large,Male,Delhi,Delhi,156,Available
+DOG0267,Indian Pariah Dog Mix,Puppy,Medium,Female,Chennai,Tamil Nadu,48,Available
+DOG0268,Golden Retriever,Puppy,Large,Male,Kolkata,West Bengal,84,Adopted
+DOG0269,Indian Pariah Dog,Young,Medium,Female,Delhi,Delhi,143,Adopted
+DOG0270,Mixed Breed,Puppy,Medium,Female,Bangalore,Karnataka,145,Available
+DOG0271,Beagle,Young,Small,Female,Kolkata,West Bengal,351,Adopted
+DOG0272,Golden Retriever,Puppy,Large,Female,Delhi,Delhi,319,Pending
+DOG0273,Mixed Breed,Young,Medium,Male,Delhi,Delhi,193,Pending
+DOG0274,Golden Retriever,Puppy,Large,Male,Jaipur,Rajasthan,24,Adopted
+DOG0275,Indian Pariah Dog Mix,Senior,Medium,Female,Bangalore,Karnataka,249,Adopted
+DOG0276,Labrador Retriever,Young,Large,Female,Kolkata,West Bengal,329,Adopted
+DOG0277,Golden Retriever,Puppy,Large,Female,Pune,Maharashtra,172,Available
+DOG0278,Indian Pariah Dog,Young,Medium,Male,Delhi,Delhi,169,Adopted
+DOG0279,Pug,Puppy,Small,Female,Mumbai,Maharashtra,334,Pending
+DOG0280,Labrador Retriever,Young,Large,Female,Mumbai,Maharashtra,287,Available
+DOG0281,Labrador Retriever,Adult,Large,Female,Bangalore,Karnataka,139,Adopted
+DOG0282,Golden Retriever,Puppy,Large,Female,Kochi,Kerala,106,Pending
+DOG0283,Indian Pariah Dog Mix,Young,Medium,Female,Hyderabad,Telangana,239,Available
+DOG0284,Indian Pariah Dog Mix,Young,Medium,Female,Lucknow,Uttar Pradesh,62,Adopted
+DOG0285,Golden Retriever,Puppy,Large,Female,Kochi,Kerala,153,Available
+DOG0286,German Shepherd,Puppy,Large,Male,Kolkata,West Bengal,361,Pending
+DOG0287,German Shepherd,Young,Large,Male,Pune,Maharashtra,43,Available
+DOG0288,Golden Retriever,Adult,Large,Male,Chennai,Tamil Nadu,277,Available
+DOG0289,Indian Pariah Dog,Puppy,Medium,Male,Delhi,Delhi,62,Available
+DOG0290,Indian Pariah Dog Mix,Adult,Medium,Female,Mumbai,Maharashtra,139,Adopted
+DOG0291,Shih Tzu,Young,Small,Female,Mumbai,Maharashtra,221,Adopted
+DOG0292,Indian Pariah Dog,Puppy,Medium,Female,Mumbai,Maharashtra,110,Available
+DOG0293,Pug,Young,Small,Female,Delhi,Delhi,40,Adopted
+DOG0294,Mixed Breed,Young,Medium,Male,Ahmedabad,Gujarat,7,Adopted
+DOG0295,Labrador Retriever,Young,Large,Male,Delhi,Delhi,219,Adopted
+DOG0296,Mixed Breed,Adult,Medium,Female,Bangalore,Karnataka,335,Pending
+DOG0297,Golden Retriever,Young,Large,Male,Pune,Maharashtra,95,Adopted
+DOG0298,Indian Pariah Dog,Adult,Medium,Male,Bangalore,Karnataka,175,Available
+DOG0299,Labrador Retriever,Adult,Large,Male,Lucknow,Uttar Pradesh,156,Adopted
+DOG0300,Labrador Retriever,Young,Large,Female,Chandigarh,Chandigarh,360,Adopted
+DOG0301,Golden Retriever,Puppy,Large,Female,Delhi,Delhi,320,Adopted
+DOG0302,Indian Pariah Dog,Puppy,Medium,Male,Mumbai,Maharashtra,320,Available
+DOG0303,Labrador Retriever,Puppy,Large,Female,Kochi,Kerala,117,Adopted
+DOG0304,Rottweiler,Senior,Large,Female,Hyderabad,Telangana,179,Available
+DOG0305,Golden Retriever,Young,Large,Female,Chennai,Tamil Nadu,29,Adopted
+DOG0306,Indian Pariah Dog,Puppy,Medium,Male,Delhi,Delhi,176,Adopted
+DOG0307,Siberian Husky,Adult,Large,Male,Ahmedabad,Gujarat,281,Available
+DOG0308,Golden Retriever,Young,Large,Female,Kolkata,West Bengal,256,Adopted
+DOG0309,Mixed Breed,Young,Medium,Male,Delhi,Delhi,135,Adopted
+DOG0310,Mixed Breed,Senior,Medium,Female,Pune,Maharashtra,94,Available
+DOG0311,Shih Tzu,Young,Small,Female,Mumbai,Maharashtra,353,Adopted
+DOG0312,Indian Pariah Dog Mix,Puppy,Medium,Female,Chennai,Tamil Nadu,361,Pending
+DOG0313,Golden Retriever,Young,Large,Female,Lucknow,Uttar Pradesh,219,Adopted
+DOG0314,Golden Retriever,Young,Large,Female,Pune,Maharashtra,350,Adopted
+DOG0315,Labrador Retriever,Young,Large,Female,Hyderabad,Telangana,60,Adopted
+DOG0316,Pug,Young,Small,Female,Jaipur,Rajasthan,96,Adopted
+DOG0317,Golden Retriever,Young,Large,Male,Bangalore,Karnataka,36,Adopted
+DOG0318,Shih Tzu,Adult,Small,Male,Chennai,Tamil Nadu,351,Adopted
+DOG0319,German Shepherd,Adult,Large,Male,Chennai,Tamil Nadu,288,Available
+DOG0320,Indian Pariah Dog Mix,Young,Medium,Female,Jaipur,Rajasthan,47,Adopted
+DOG0321,Mixed Breed,Puppy,Medium,Female,Pune,Maharashtra,38,Adopted
+DOG0322,Shih Tzu,Puppy,Small,Female,Hyderabad,Telangana,239,Adopted
+DOG0323,Labrador Retriever,Young,Large,Male,Delhi,Delhi,305,Adopted
+DOG0324,Shih Tzu,Puppy,Small,Female,Ahmedabad,Gujarat,63,Adopted
+DOG0325,Beagle,Puppy,Small,Male,Hyderabad,Telangana,113,Adopted
+DOG0326,German Shepherd,Puppy,Large,Female,Delhi,Delhi,300,Adopted
+DOG0327,Indian Pariah Dog Mix,Adult,Medium,Male,Bangalore,Karnataka,77,Available
+DOG0328,Mixed Breed,Puppy,Medium,Female,Ahmedabad,Gujarat,107,Adopted
+DOG0329,Labrador Retriever,Young,Large,Male,Hyderabad,Telangana,321,Adopted
+DOG0330,Indian Pariah Dog,Young,Medium,Male,Mumbai,Maharashtra,150,Available
+DOG0331,Golden Retriever,Adult,Large,Female,Chennai,Tamil Nadu,239,Available
+DOG0332,Pug,Young,Small,Male,Bangalore,Karnataka,347,Adopted
+DOG0333,Labrador Retriever,Puppy,Large,Male,Delhi,Delhi,144,Adopted
+DOG0334,Beagle,Young,Small,Female,Mumbai,Maharashtra,335,Adopted
+DOG0335,Indian Pariah Dog,Adult,Medium,Male,Lucknow,Uttar Pradesh,73,Available
+DOG0336,Pug,Young,Small,Female,Chennai,Tamil Nadu,306,Adopted
+DOG0337,Labrador Retriever,Young,Large,Female,Kolkata,West Bengal,37,Pending
+DOG0338,Beagle,Adult,Small,Female,Mumbai,Maharashtra,321,Adopted
+DOG0339,German Shepherd,Senior,Large,Female,Kolkata,West Bengal,58,Adopted
+DOG0340,Labrador Retriever,Adult,Large,Female,Kolkata,West Bengal,184,Adopted
+DOG0341,Golden Retriever,Young,Large,Male,Delhi,Delhi,117,Available
+DOG0342,Labrador Retriever,Adult,Large,Male,Mumbai,Maharashtra,244,Adopted
+DOG0343,Indian Pariah Dog,Adult,Medium,Female,Bangalore,Karnataka,181,Adopted
+DOG0344,Beagle,Puppy,Small,Male,Delhi,Delhi,295,Adopted
+DOG0345,Labrador Retriever,Puppy,Large,Female,Kochi,Kerala,11,Adopted
+DOG0346,Labrador Retriever,Puppy,Large,Male,Ahmedabad,Gujarat,30,Available
+DOG0347,Indian Pariah Dog,Young,Medium,Female,Mumbai,Maharashtra,213,Adopted
+DOG0348,Golden Retriever,Puppy,Large,Male,Kochi,Kerala,259,Adopted
+DOG0349,Pug,Young,Small,Male,Ahmedabad,Gujarat,14,Adopted
+DOG0350,German Shepherd,Young,Large,Male,Lucknow,Uttar Pradesh,325,Available
+DOG0351,Golden Retriever,Puppy,Large,Male,Delhi,Delhi,281,Available
+DOG0352,Indian Pariah Dog Mix,Young,Medium,Male,Delhi,Delhi,75,Adopted
+DOG0353,Mixed Breed,Young,Medium,Male,Pune,Maharashtra,334,Adopted
+DOG0354,Indian Pariah Dog,Puppy,Medium,Female,Bangalore,Karnataka,77,Available
+DOG0355,Siberian Husky,Puppy,Large,Female,Hyderabad,Telangana,41,Adopted
+DOG0356,Mixed Breed,Young,Medium,Male,Delhi,Delhi,261,Adopted
+DOG0357,Mixed Breed,Adult,Medium,Male,Hyderabad,Telangana,123,Adopted
+DOG0358,Indian Pariah Dog,Puppy,Medium,Male,Bangalore,Karnataka,210,Available
+DOG0359,German Shepherd,Young,Large,Female,Delhi,Delhi,46,Available
+DOG0360,Labrador Retriever,Young,Large,Female,Delhi,Delhi,9,Adopted
+DOG0361,Rottweiler,Puppy,Large,Male,Delhi,Delhi,104,Adopted
+DOG0362,Indian Pariah Dog,Adult,Medium,Female,Pune,Maharashtra,147,Available
+DOG0363,Indian Pariah Dog,Adult,Medium,Male,Mumbai,Maharashtra,274,Adopted
+DOG0364,Indian Pariah Dog Mix,Young,Medium,Female,Chennai,Tamil Nadu,42,Available
+DOG0365,Golden Retriever,Young,Large,Male,Chennai,Tamil Nadu,295,Adopted
+DOG0366,Labrador Retriever,Young,Large,Female,Chandigarh,Chandigarh,338,Adopted
+DOG0367,German Shepherd,Adult,Large,Female,Hyderabad,Telangana,31,Adopted
+DOG0368,Pug,Adult,Small,Female,Delhi,Delhi,253,Adopted
+DOG0369,Golden Retriever,Puppy,Large,Female,Chennai,Tamil Nadu,218,Adopted
+DOG0370,Pug,Young,Small,Female,Delhi,Delhi,147,Available
+DOG0371,Indian Pariah Dog,Young,Medium,Female,Hyderabad,Telangana,234,Adopted
+DOG0372,Labrador Retriever,Young,Large,Male,Kolkata,West Bengal,239,Adopted
+DOG0373,Indian Pariah Dog,Young,Medium,Male,Pune,Maharashtra,8,Adopted
+DOG0374,Mixed Breed,Puppy,Medium,Male,Jaipur,Rajasthan,7,Available
+DOG0375,Mixed Breed,Puppy,Medium,Female,Hyderabad,Telangana,129,Available
+DOG0376,Golden Retriever,Puppy,Large,Female,Chennai,Tamil Nadu,150,Available
+DOG0377,Mixed Breed,Puppy,Medium,Male,Mumbai,Maharashtra,123,Adopted
+DOG0378,Rottweiler,Young,Large,Female,Chennai,Tamil Nadu,51,Adopted
+DOG0379,Labrador Retriever,Young,Large,Male,Chandigarh,Chandigarh,204,Adopted
+DOG0380,Indian Pariah Dog,Adult,Medium,Male,Bangalore,Karnataka,93,Available
+DOG0381,Mixed Breed,Puppy,Medium,Female,Lucknow,Uttar Pradesh,97,Adopted
+DOG0382,Labrador Retriever,Puppy,Large,Male,Kochi,Kerala,111,Adopted
+DOG0383,Labrador Retriever,Puppy,Large,Male,Kochi,Kerala,121,Adopted
+DOG0384,Rottweiler,Puppy,Large,Female,Kochi,Kerala,327,Adopted
+DOG0385,Labrador Retriever,Young,Large,Male,Pune,Maharashtra,203,Adopted
+DOG0386,Golden Retriever,Adult,Large,Female,Chennai,Tamil Nadu,365,Available
+DOG0387,Labrador Retriever,Young,Large,Male,Bangalore,Karnataka,78,Adopted
+DOG0388,Beagle,Puppy,Small,Male,Ahmedabad,Gujarat,304,Adopted
+DOG0389,German Shepherd,Puppy,Large,Male,Delhi,Delhi,137,Adopted
+DOG0390,Beagle,Senior,Small,Female,Hyderabad,Telangana,151,Adopted
+DOG0391,Labrador Retriever,Young,Large,Female,Chennai,Tamil Nadu,283,Available
+DOG0392,German Shepherd,Adult,Large,Female,Mumbai,Maharashtra,308,Adopted
+DOG0393,Labrador Retriever,Puppy,Large,Male,Kolkata,West Bengal,348,Adopted
+DOG0394,Pug,Young,Small,Male,Lucknow,Uttar Pradesh,309,Adopted
+DOG0395,Pug,Young,Small,Male,Delhi,Delhi,253,Available
+DOG0396,Shih Tzu,Young,Small,Male,Delhi,Delhi,71,Adopted
+DOG0397,Labrador Retriever,Puppy,Large,Male,Delhi,Delhi,135,Adopted
+DOG0398,Golden Retriever,Young,Large,Female,Mumbai,Maharashtra,182,Adopted
+DOG0399,Beagle,Adult,Small,Female,Kochi,Kerala,204,Adopted
+DOG0400,Mixed Breed,Young,Medium,Female,Delhi,Delhi,321,Adopted
+DOG0401,Indian Pariah Dog,Puppy,Medium,Male,Hyderabad,Telangana,116,Adopted
+DOG0402,Labrador Retriever,Young,Large,Female,Lucknow,Uttar Pradesh,193,Adopted
+DOG0403,Mixed Breed,Adult,Medium,Male,Chennai,Tamil Nadu,291,Adopted
+DOG0404,German Shepherd,Young,Large,Female,Pune,Maharashtra,165,Available
+DOG0405,Indian Pariah Dog Mix,Puppy,Medium,Female,Bangalore,Karnataka,40,Adopted
+DOG0406,Mixed Breed,Puppy,Medium,Male,Delhi,Delhi,283,Available
+DOG0407,Labrador Retriever,Young,Large,Female,Pune,Maharashtra,284,Available
+DOG0408,Mixed Breed,Young,Medium,Female,Ahmedabad,Gujarat,212,Adopted
+DOG0409,Labrador Retriever,Puppy,Large,Female,Bangalore,Karnataka,256,Pending
+DOG0410,Mixed Breed,Young,Medium,Male,Hyderabad,Telangana,358,Available
+DOG0411,Indian Pariah Dog,Puppy,Medium,Male,Chennai,Tamil Nadu,309,Available
+DOG0412,Labrador Retriever,Puppy,Large,Male,Jaipur,Rajasthan,270,Adopted
+DOG0413,Indian Pariah Dog,Young,Medium,Male,Pune,Maharashtra,45,Adopted
+DOG0414,Labrador Retriever,Puppy,Large,Female,Jaipur,Rajasthan,232,Adopted
+DOG0415,German Shepherd,Young,Large,Male,Chennai,Tamil Nadu,27,Adopted
+DOG0416,Indian Pariah Dog,Puppy,Medium,Male,Chandigarh,Chandigarh,223,Adopted
+DOG0417,Beagle,Young,Small,Male,Kochi,Kerala,220,Adopted
+DOG0418,Labrador Retriever,Puppy,Large,Female,Hyderabad,Telangana,108,Available
+DOG0419,Mixed Breed,Senior,Medium,Female,Lucknow,Uttar Pradesh,133,Adopted
+DOG0420,Mixed Breed,Puppy,Medium,Male,Kolkata,West Bengal,111,Adopted
+DOG0421,German Shepherd,Adult,Large,Female,Hyderabad,Telangana,18,Pending
+DOG0422,Rottweiler,Young,Large,Male,Lucknow,Uttar Pradesh,266,Adopted
+DOG0423,Golden Retriever,Young,Large,Female,Hyderabad,Telangana,263,Adopted
+DOG0424,Mixed Breed,Senior,Medium,Female,Delhi,Delhi,322,Pending
+DOG0425,Labrador Retriever,Puppy,Large,Female,Chennai,Tamil Nadu,239,Available
+DOG0426,Labrador Retriever,Senior,Large,Female,Mumbai,Maharashtra,88,Adopted
+DOG0427,Indian Pariah Dog,Puppy,Medium,Male,Bangalore,Karnataka,224,Pending
+DOG0428,Shih Tzu,Puppy,Small,Female,Ahmedabad,Gujarat,208,Adopted
+DOG0429,Indian Pariah Dog,Senior,Medium,Female,Hyderabad,Telangana,295,Available
+DOG0430,Indian Pariah Dog Mix,Young,Medium,Female,Mumbai,Maharashtra,322,Adopted
+DOG0431,German Shepherd,Adult,Large,Male,Pune,Maharashtra,349,Adopted
+DOG0432,Indian Pariah Dog,Puppy,Medium,Female,Mumbai,Maharashtra,104,Adopted
+DOG0433,Golden Retriever,Young,Large,Female,Ahmedabad,Gujarat,283,Available
+DOG0434,Golden Retriever,Adult,Large,Male,Mumbai,Maharashtra,202,Available
+DOG0435,German Shepherd,Young,Large,Male,Mumbai,Maharashtra,218,Adopted
+DOG0436,Shih Tzu,Adult,Small,Female,Kolkata,West Bengal,208,Adopted
+DOG0437,Indian Pariah Dog Mix,Puppy,Medium,Male,Delhi,Delhi,350,Adopted
+DOG0438,Labrador Retriever,Young,Large,Male,Pune,Maharashtra,208,Available
+DOG0439,Golden Retriever,Adult,Large,Male,Pune,Maharashtra,295,Available
+DOG0440,Mixed Breed,Puppy,Medium,Female,Chennai,Tamil Nadu,114,Available
+DOG0441,Labrador Retriever,Young,Large,Female,Delhi,Delhi,225,Adopted
+DOG0442,Labrador Retriever,Puppy,Large,Male,Delhi,Delhi,21,Adopted
+DOG0443,Beagle,Puppy,Small,Male,Mumbai,Maharashtra,359,Adopted
+DOG0444,Pug,Young,Small,Female,Chennai,Tamil Nadu,70,Adopted
+DOG0445,Golden Retriever,Young,Large,Male,Bangalore,Karnataka,158,Adopted
+DOG0446,Labrador Retriever,Puppy,Large,Female,Kolkata,West Bengal,2,Adopted
+DOG0447,Indian Pariah Dog,Puppy,Medium,Female,Delhi,Delhi,252,Adopted
+DOG0448,Beagle,Adult,Small,Female,Hyderabad,Telangana,334,Available
+DOG0449,Indian Pariah Dog Mix,Adult,Medium,Male,Delhi,Delhi,10,Pending
+DOG0450,Labrador Retriever,Young,Large,Male,Ahmedabad,Gujarat,68,Adopted
+DOG0451,Mixed Breed,Young,Medium,Male,Mumbai,Maharashtra,248,Available
+DOG0452,Beagle,Young,Small,Male,Delhi,Delhi,32,Available
+DOG0453,Indian Pariah Dog,Young,Medium,Male,Chandigarh,Chandigarh,291,Pending
+DOG0454,German Shepherd,Young,Large,Male,Bangalore,Karnataka,306,Available
+DOG0455,Indian Pariah Dog Mix,Adult,Medium,Male,Lucknow,Uttar Pradesh,149,Adopted
+DOG0456,Indian Pariah Dog,Young,Medium,Female,Bangalore,Karnataka,174,Adopted
+DOG0457,Shih Tzu,Young,Small,Female,Mumbai,Maharashtra,87,Adopted
+DOG0458,Labrador Retriever,Young,Large,Male,Chennai,Tamil Nadu,178,Adopted
+DOG0459,Labrador Retriever,Young,Large,Male,Ahmedabad,Gujarat,247,Available
+DOG0460,Mixed Breed,Puppy,Medium,Female,Mumbai,Maharashtra,227,Adopted
+DOG0461,Beagle,Young,Small,Female,Chennai,Tamil Nadu,2,Available
+DOG0462,German Shepherd,Young,Large,Male,Chandigarh,Chandigarh,258,Pending
+DOG0463,Mixed Breed,Young,Medium,Female,Mumbai,Maharashtra,19,Adopted
+DOG0464,Labrador Retriever,Adult,Large,Male,Lucknow,Uttar Pradesh,132,Adopted
+DOG0465,Beagle,Puppy,Small,Female,Chandigarh,Chandigarh,82,Adopted
+DOG0466,Golden Retriever,Puppy,Large,Female,Pune,Maharashtra,358,Available
+DOG0467,Labrador Retriever,Young,Large,Female,Delhi,Delhi,31,Adopted
+DOG0468,German Shepherd,Young,Large,Male,Delhi,Delhi,315,Available
+DOG0469,Labrador Retriever,Puppy,Large,Male,Mumbai,Maharashtra,170,Pending
+DOG0470,Shih Tzu,Adult,Small,Male,Jaipur,Rajasthan,224,Adopted
+DOG0471,German Shepherd,Puppy,Large,Female,Pune,Maharashtra,182,Available
+DOG0472,Indian Pariah Dog,Young,Medium,Male,Delhi,Delhi,339,Adopted
+DOG0473,German Shepherd,Puppy,Large,Female,Kolkata,West Bengal,350,Adopted
+DOG0474,Indian Pariah Dog Mix,Puppy,Medium,Female,Hyderabad,Telangana,20,Adopted
+DOG0475,Golden Retriever,Puppy,Large,Male,Kolkata,West Bengal,45,Pending
+DOG0476,Pug,Puppy,Small,Female,Pune,Maharashtra,275,Available
+DOG0477,Labrador Retriever,Young,Large,Female,Chennai,Tamil Nadu,332,Available
+DOG0478,Indian Pariah Dog,Young,Medium,Male,Delhi,Delhi,356,Adopted
+DOG0479,German Shepherd,Puppy,Large,Female,Kochi,Kerala,247,Adopted
+DOG0480,Mixed Breed,Young,Medium,Male,Kochi,Kerala,245,Pending
+DOG0481,Pug,Puppy,Small,Female,Ahmedabad,Gujarat,354,Adopted
+DOG0482,Labrador Retriever,Adult,Large,Female,Hyderabad,Telangana,139,Adopted
+DOG0483,Shih Tzu,Young,Small,Male,Mumbai,Maharashtra,154,Pending
+DOG0484,Labrador Retriever,Young,Large,Female,Kochi,Kerala,226,Available
+DOG0485,Labrador Retriever,Young,Large,Male,Bangalore,Karnataka,24,Adopted
+DOG0486,Siberian Husky,Young,Large,Female,Hyderabad,Telangana,287,Pending
+DOG0487,German Shepherd,Adult,Large,Male,Ahmedabad,Gujarat,156,Adopted
+DOG0488,Labrador Retriever,Adult,Large,Female,Chennai,Tamil Nadu,292,Available
+DOG0489,Indian Pariah Dog,Puppy,Medium,Female,Ahmedabad,Gujarat,315,Adopted
+DOG0490,Labrador Retriever,Adult,Large,Male,Pune,Maharashtra,108,Available
+DOG0491,Mixed Breed,Young,Medium,Female,Chennai,Tamil Nadu,223,Adopted
+DOG0492,Indian Pariah Dog,Adult,Medium,Female,Hyderabad,Telangana,91,Adopted
+DOG0493,German Shepherd,Young,Large,Male,Delhi,Delhi,347,Adopted
+DOG0494,Beagle,Puppy,Small,Female,Bangalore,Karnataka,166,Adopted
+DOG0495,Mixed Breed,Young,Medium,Male,Ahmedabad,Gujarat,279,Adopted
+DOG0496,Mixed Breed,Adult,Medium,Female,Hyderabad,Telangana,262,Adopted
+DOG0497,Labrador Retriever,Puppy,Large,Male,Bangalore,Karnataka,212,Available
+DOG0498,Indian Pariah Dog Mix,Young,Medium,Female,Delhi,Delhi,321,Available
+DOG0499,Indian Pariah Dog,Adult,Medium,Female,Mumbai,Maharashtra,73,Available
+DOG0500,Indian Pariah Dog,Young,Medium,Male,Pune,Maharashtra,180,Adopted
+DOG0501,Indian Pariah Dog,Adult,Medium,Female,Delhi,Delhi,20,Pending
+DOG0502,Pug,Puppy,Small,Female,Chennai,Tamil Nadu,189,Adopted
+DOG0503,Labrador Retriever,Young,Large,Female,Jaipur,Rajasthan,308,Adopted
+DOG0504,German Shepherd,Young,Large,Male,Delhi,Delhi,75,Adopted
+DOG0505,Golden Retriever,Puppy,Large,Male,Delhi,Delhi,340,Adopted
+DOG0506,Beagle,Young,Small,Male,Mumbai,Maharashtra,274,Adopted
+DOG0507,Labrador Retriever,Puppy,Large,Male,Hyderabad,Telangana,8,Adopted
+DOG0508,Mixed Breed,Puppy,Medium,Male,Jaipur,Rajasthan,228,Pending
+DOG0509,Mixed Breed,Puppy,Medium,Male,Chennai,Tamil Nadu,59,Available
+DOG0510,Labrador Retriever,Puppy,Large,Male,Ahmedabad,Gujarat,255,Adopted
+DOG0511,Labrador Retriever,Young,Large,Female,Chandigarh,Chandigarh,310,Adopted
+DOG0512,Pug,Puppy,Small,Female,Jaipur,Rajasthan,91,Adopted
+DOG0513,Siberian Husky,Young,Large,Female,Mumbai,Maharashtra,111,Adopted
+DOG0514,Indian Pariah Dog Mix,Puppy,Medium,Male,Bangalore,Karnataka,182,Adopted
+DOG0515,Shih Tzu,Adult,Small,Male,Bangalore,Karnataka,95,Adopted
+DOG0516,Shih Tzu,Young,Small,Female,Mumbai,Maharashtra,136,Adopted
+DOG0517,Beagle,Young,Small,Female,Chandigarh,Chandigarh,204,Adopted
+DOG0518,Labrador Retriever,Puppy,Large,Female,Mumbai,Maharashtra,153,Adopted
+DOG0519,German Shepherd,Puppy,Large,Male,Kolkata,West Bengal,82,Adopted
+DOG0520,Mixed Breed,Young,Medium,Male,Delhi,Delhi,238,Available
+DOG0521,Pug,Puppy,Small,Female,Hyderabad,Telangana,355,Adopted
+DOG0522,Labrador Retriever,Young,Large,Male,Chandigarh,Chandigarh,184,Adopted
+DOG0523,Labrador Retriever,Puppy,Large,Female,Hyderabad,Telangana,288,Adopted
+DOG0524,Indian Pariah Dog,Puppy,Medium,Female,Delhi,Delhi,114,Adopted
+DOG0525,Beagle,Adult,Small,Female,Kolkata,West Bengal,10,Available
+DOG0526,Labrador Retriever,Young,Large,Male,Mumbai,Maharashtra,276,Available
+DOG0527,Indian Pariah Dog,Senior,Medium,Female,Kochi,Kerala,98,Pending
+DOG0528,Shih Tzu,Adult,Small,Female,Chennai,Tamil Nadu,190,Available
+DOG0529,Shih Tzu,Young,Small,Female,Kolkata,West Bengal,30,Adopted
+DOG0530,Labrador Retriever,Puppy,Large,Female,Pune,Maharashtra,179,Adopted
+DOG0531,Pug,Adult,Small,Male,Delhi,Delhi,216,Available
+DOG0532,Indian Pariah Dog Mix,Young,Medium,Male,Chandigarh,Chandigarh,221,Adopted
+DOG0533,Indian Pariah Dog,Adult,Medium,Male,Jaipur,Rajasthan,189,Available
+DOG0534,Rottweiler,Puppy,Large,Female,Mumbai,Maharashtra,307,Adopted
+DOG0535,German Shepherd,Young,Large,Female,Kochi,Kerala,341,Adopted
+DOG0536,German Shepherd,Puppy,Large,Female,Jaipur,Rajasthan,199,Available
+DOG0537,Indian Pariah Dog,Puppy,Medium,Male,Ahmedabad,Gujarat,110,Adopted
+DOG0538,Indian Pariah Dog Mix,Adult,Medium,Female,Bangalore,Karnataka,321,Adopted
+DOG0539,Indian Pariah Dog,Young,Medium,Female,Chandigarh,Chandigarh,48,Pending
+DOG0540,Siberian Husky,Young,Large,Female,Delhi,Delhi,45,Adopted
+DOG0541,Labrador Retriever,Adult,Large,Male,Bangalore,Karnataka,132,Adopted
+DOG0542,Labrador Retriever,Puppy,Large,Male,Hyderabad,Telangana,300,Adopted
+DOG0543,Labrador Retriever,Young,Large,Male,Mumbai,Maharashtra,175,Adopted
+DOG0544,Pug,Puppy,Small,Male,Mumbai,Maharashtra,314,Available
+DOG0545,Shih Tzu,Young,Small,Male,Jaipur,Rajasthan,72,Adopted
+DOG0546,Labrador Retriever,Puppy,Large,Female,Ahmedabad,Gujarat,204,Available
+DOG0547,German Shepherd,Adult,Large,Male,Jaipur,Rajasthan,218,Available
+DOG0548,Indian Pariah Dog,Puppy,Medium,Female,Kochi,Kerala,24,Adopted
+DOG0549,Indian Pariah Dog,Young,Medium,Female,Delhi,Delhi,164,Adopted
+DOG0550,Indian Pariah Dog,Puppy,Medium,Female,Mumbai,Maharashtra,358,Available
+DOG0551,Indian Pariah Dog,Puppy,Medium,Female,Lucknow,Uttar Pradesh,50,Available
+DOG0552,Siberian Husky,Young,Large,Female,Hyderabad,Telangana,88,Available
+DOG0553,Mixed Breed,Young,Medium,Female,Mumbai,Maharashtra,1,Pending
+DOG0554,Labrador Retriever,Adult,Large,Male,Jaipur,Rajasthan,153,Pending
+DOG0555,Mixed Breed,Adult,Medium,Female,Delhi,Delhi,43,Pending
+DOG0556,Rottweiler,Young,Large,Female,Bangalore,Karnataka,13,Adopted
+DOG0557,Indian Pariah Dog,Puppy,Medium,Male,Lucknow,Uttar Pradesh,213,Available
+DOG0558,Beagle,Young,Small,Female,Delhi,Delhi,17,Adopted
+DOG0559,Beagle,Puppy,Small,Male,Chandigarh,Chandigarh,40,Available
+DOG0560,Labrador Retriever,Young,Large,Female,Mumbai,Maharashtra,153,Adopted
+DOG0561,Siberian Husky,Puppy,Large,Female,Jaipur,Rajasthan,303,Available
+DOG0562,Mixed Breed,Young,Medium,Male,Hyderabad,Telangana,267,Available
+DOG0563,Indian Pariah Dog,Young,Medium,Female,Delhi,Delhi,47,Adopted
+DOG0564,Labrador Retriever,Puppy,Large,Male,Bangalore,Karnataka,96,Adopted
+DOG0565,German Shepherd,Puppy,Large,Female,Bangalore,Karnataka,176,Adopted
+DOG0566,Mixed Breed,Puppy,Medium,Male,Bangalore,Karnataka,353,Adopted
+DOG0567,Golden Retriever,Puppy,Large,Female,Delhi,Delhi,174,Adopted
+DOG0568,Pug,Puppy,Small,Female,Mumbai,Maharashtra,136,Available
+DOG0569,Mixed Breed,Young,Medium,Male,Bangalore,Karnataka,64,Adopted
+DOG0570,Mixed Breed,Young,Medium,Female,Pune,Maharashtra,40,Adopted
+DOG0571,Golden Retriever,Young,Large,Female,Bangalore,Karnataka,41,Pending
+DOG0572,Indian Pariah Dog,Adult,Medium,Male,Ahmedabad,Gujarat,263,Adopted
+DOG0573,Rottweiler,Adult,Large,Male,Kochi,Kerala,61,Adopted
+DOG0574,German Shepherd,Adult,Large,Female,Hyderabad,Telangana,349,Adopted
+DOG0575,Beagle,Adult,Small,Female,Hyderabad,Telangana,252,Available
+DOG0576,Shih Tzu,Young,Small,Female,Bangalore,Karnataka,3,Pending
+DOG0577,Siberian Husky,Puppy,Large,Female,Pune,Maharashtra,57,Pending
+DOG0578,Indian Pariah Dog,Puppy,Medium,Female,Chandigarh,Chandigarh,243,Adopted
+DOG0579,Indian Pariah Dog,Young,Medium,Female,Chennai,Tamil Nadu,167,Pending
+DOG0580,Labrador Retriever,Adult,Large,Male,Lucknow,Uttar Pradesh,164,Adopted
+DOG0581,Indian Pariah Dog Mix,Young,Medium,Female,Mumbai,Maharashtra,183,Adopted
+DOG0582,Mixed Breed,Young,Medium,Male,Kolkata,West Bengal,323,Adopted
+DOG0583,Golden Retriever,Puppy,Large,Female,Delhi,Delhi,196,Adopted
+DOG0584,Siberian Husky,Young,Large,Female,Kochi,Kerala,29,Available
+DOG0585,Rottweiler,Puppy,Large,Male,Pune,Maharashtra,257,Available
+DOG0586,Pug,Puppy,Small,Male,Chennai,Tamil Nadu,68,Adopted
+DOG0587,Indian Pariah Dog,Puppy,Medium,Male,Lucknow,Uttar Pradesh,36,Available
+DOG0588,Indian Pariah Dog Mix,Puppy,Medium,Male,Kolkata,West Bengal,254,Adopted
+DOG0589,Beagle,Adult,Small,Female,Chennai,Tamil Nadu,258,Adopted
+DOG0590,German Shepherd,Puppy,Large,Female,Lucknow,Uttar Pradesh,89,Adopted
+DOG0591,German Shepherd,Young,Large,Female,Delhi,Delhi,81,Adopted
+DOG0592,Mixed Breed,Adult,Medium,Male,Mumbai,Maharashtra,207,Adopted
+DOG0593,Golden Retriever,Puppy,Large,Female,Delhi,Delhi,205,Pending
+DOG0594,German Shepherd,Adult,Large,Female,Pune,Maharashtra,49,Pending
+DOG0595,Labrador Retriever,Puppy,Large,Male,Mumbai,Maharashtra,271,Available
+DOG0596,Golden Retriever,Young,Large,Male,Mumbai,Maharashtra,308,Adopted
+DOG0597,Indian Pariah Dog,Young,Medium,Male,Delhi,Delhi,6,Adopted
+DOG0598,Labrador Retriever,Young,Large,Female,Mumbai,Maharashtra,359,Adopted
+DOG0599,Labrador Retriever,Puppy,Large,Female,Mumbai,Maharashtra,161,Available
+DOG0600,Golden Retriever,Adult,Large,Male,Bangalore,Karnataka,186,Adopted
