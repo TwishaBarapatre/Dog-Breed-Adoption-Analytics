@@ -280,13 +280,8 @@ Outputs:
 
 ## 👨‍💻 Authors
 
-### Deep Modi
+### Twisha Barapatre
 
-Integrated MCA – GLS University
-
-### Charmil Patel
-
-Integrated MCA – GLS University
 
 ---
 
